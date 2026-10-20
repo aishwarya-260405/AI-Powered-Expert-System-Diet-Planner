@@ -1,0 +1,43 @@
+{
+    "Training Shape": [
+        3500,
+        45
+    ],
+    "Validation Shape": [
+        750,
+        45
+    ],
+    "Testing Shape": [
+        750,
+        45
+    ],
+    "Numerical Features": [
+        "Age",
+        "Height_cm",
+        "Weight_kg",
+        "BMI",
+        "Blood_Pressure_Systolic",
+        "Blood_Pressure_Diastolic",
+        "Cholesterol_Level",
+        "Blood_Sugar_Level",
+        "Daily_Steps",
+        "Exercise_Frequency",
+        "Sleep_Hours",
+        "Caloric_Intake",
+        "Protein_Intake",
+        "Carbohydrate_Intake",
+        "Fat_Intake"
+    ],
+    "Categorical Features": [
+        "Gender",
+        "Chronic_Disease",
+        "Genetic_Risk_Factor",
+        "Allergies",
+        "Alcohol_Consumption",
+        "Smoking_Habit",
+        "Dietary_Habits",
+        "Preferred_Cuisine",
+        "Food_Aversions"
+    ],
+    "Total Processed Features": 45
+}

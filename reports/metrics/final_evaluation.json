@@ -1,0 +1,8 @@
+{
+    "Regression Model": "Linear Regression",
+    "Regression R2": 0.9669196098781632,
+    "Regression MAE": 104.53377877496055,
+    "Regression RMSE": 119.61811231430067,
+    "Classification Model": "Decision Tree",
+    "Classification Accuracy": 1.0
+}

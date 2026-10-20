@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>AI Diet Expert System</title>
+
+    <!-- Google Font -->
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet"
+    >
+
+    <!-- Home Page CSS -->
+    <link
+        rel="stylesheet"
+        href="{{ url_for('static', filename='css/home.css') }}"
+    >
+
+</head>
+
+<body>
+
+    <!-- ==================================================
+         HERO SECTION
+         ================================================== -->
+
+    <section class="hero">
+
+        <div class="hero-content">
+
+            <h1>
+                An AI-Powered Expert System for
+                Personalized Indian Diet Planning
+            </h1>
+
+            <p>
+                Eat smarter, live healthier — with an AI companion
+                that helps you make confident, nourishing food
+                choices every day.
+            </p>
+
+            <a
+                href="{{ url_for('dietplanner') }}"
+                class="btn"
+            >
+                Generate My Plan
+            </a>
+
+        </div>
+
+    </section>
+
+
+    <!-- ==================================================
+         FOOTER
+         ================================================== -->
+
+    <footer>
+
+        AI Diet Expert System
+        © 2026
+
+    </footer>
+
+</body>
+
+</html>

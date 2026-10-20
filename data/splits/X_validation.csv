@@ -1,0 +1,751 @@
+Age,Gender,Height_cm,Weight_kg,BMI,Chronic_Disease,Blood_Pressure_Systolic,Blood_Pressure_Diastolic,Cholesterol_Level,Blood_Sugar_Level,Genetic_Risk_Factor,Allergies,Daily_Steps,Exercise_Frequency,Sleep_Hours,Alcohol_Consumption,Smoking_Habit,Dietary_Habits,Caloric_Intake,Protein_Intake,Carbohydrate_Intake,Fat_Intake,Preferred_Cuisine,Food_Aversions
+25,Other,153,90,38.45,Obesity,113,93,178,223,No,,2160,1,9.8,No,No,Regular,1378,80,146,79,Indian,Spicy
+37,Female,193,114,30.6,Obesity,128,65,162,247,No,,10227,3,8.4,No,No,Vegetarian,3323,94,202,142,Mediterranean,Spicy
+62,Other,175,106,34.61,No Disease,116,85,196,198,No,,2613,6,8.6,No,No,Keto,3437,52,246,113,Mediterranean,Spicy
+55,Female,193,101,27.11,Obesity,125,118,175,220,Yes,,2623,3,5.9,No,No,Regular,3301,158,396,84,Mediterranean,Spicy
+48,Female,165,68,24.98,No Disease,160,78,261,201,No,,9982,0,9.4,No,No,Regular,2629,190,115,37,Western,
+38,Other,154,65,27.41,Heart Disease,160,117,193,83,Yes,,4099,6,4.9,No,No,Vegan,2678,169,105,95,Western,Spicy
+29,Female,159,98,38.76,No Disease,136,113,257,226,No,,14192,3,5.5,No,No,Vegetarian,2239,172,258,26,Indian,Spicy
+74,Other,168,58,20.55,Hypertension,160,103,261,179,Yes,Nut Allergy,9517,1,9.1,No,No,Vegetarian,3276,129,372,24,Asian,Salty
+71,Female,168,94,33.3,Heart Disease,179,98,180,206,No,,3973,4,4.6,Yes,No,Vegan,1983,125,190,58,Western,
+23,Male,195,53,13.94,No Disease,131,67,267,150,No,Gluten Intolerance,8991,5,8.8,Yes,No,Regular,2108,176,142,129,Mediterranean,Sweet
+23,Female,184,59,17.43,Obesity,167,117,275,128,No,,4784,6,8.7,Yes,No,Regular,1833,87,166,79,Asian,Sweet
+75,Male,184,101,29.83,Heart Disease,174,94,207,134,Yes,,14675,5,5.8,Yes,No,Keto,2022,85,207,142,Indian,Sweet
+33,Male,170,71,24.57,Diabetes,105,75,186,140,No,,14230,0,8.9,Yes,No,Regular,1463,145,253,40,Mediterranean,Salty
+49,Male,152,107,46.31,No Disease,102,105,294,170,No,,4336,3,4.9,No,No,Regular,2970,81,339,22,Indian,Salty
+54,Female,166,59,21.41,Obesity,176,72,189,188,No,Nut Allergy,2569,4,7.1,No,No,Vegetarian,3291,131,160,112,Mediterranean,
+32,Male,193,75,20.13,No Disease,91,83,171,128,No,,14516,1,8.4,No,No,Regular,1930,191,325,90,Asian,Spicy
+18,Male,187,66,18.87,Heart Disease,162,60,161,247,Yes,Lactose Intolerance,5343,2,7.1,No,No,Regular,3231,160,233,92,Mediterranean,Sweet
+34,Female,170,108,37.37,Diabetes,93,108,202,206,No,,4166,3,9.4,No,No,Vegetarian,2366,83,203,132,Western,
+19,Other,185,108,31.56,Heart Disease,111,64,287,99,No,,6253,1,9.7,Yes,No,Regular,1767,110,262,32,Western,Salty
+74,Male,162,113,43.06,Hypertension,133,100,237,207,No,,7429,1,5.9,No,No,Keto,3263,118,329,148,Western,Sweet
+50,Other,156,112,46.02,Hypertension,101,74,204,203,No,,6798,1,6.1,Yes,No,Regular,2102,73,248,61,Asian,Spicy
+41,Female,179,70,21.85,No Disease,110,88,209,108,No,Gluten Intolerance,2319,3,9.4,No,No,Vegan,1661,110,244,70,Mediterranean,Sweet
+53,Other,177,95,30.32,Diabetes,139,90,179,124,No,Nut Allergy,12957,1,4.4,No,Yes,Regular,2683,173,205,29,Mediterranean,Sweet
+22,Other,158,94,37.65,Heart Disease,143,96,267,153,No,Gluten Intolerance,4355,3,5.4,No,No,Keto,3142,58,265,118,Mediterranean,Sweet
+68,Other,191,114,31.25,No Disease,95,92,254,227,Yes,,3922,6,8.0,No,Yes,Keto,3154,197,366,28,Western,Salty
+18,Female,178,58,18.31,Diabetes,104,60,286,72,No,,14220,2,7.8,No,Yes,Vegetarian,3216,120,113,45,Western,Salty
+47,Male,190,63,17.45,Diabetes,126,80,171,153,No,,14488,1,7.7,No,No,Vegetarian,1918,122,355,144,Asian,
+31,Female,193,69,18.52,Diabetes,122,93,288,175,Yes,Lactose Intolerance,7093,0,4.6,No,Yes,Keto,1230,81,109,94,Indian,Sweet
+51,Other,194,50,13.29,Hypertension,108,72,234,240,No,,5771,5,7.2,No,Yes,Regular,2618,56,307,72,Mediterranean,Spicy
+42,Male,199,86,21.72,Diabetes,121,78,236,238,No,Lactose Intolerance,2804,2,5.5,No,No,Vegan,1780,110,243,131,Mediterranean,Salty
+70,Other,166,71,25.77,Diabetes,149,86,269,211,No,,7308,0,5.9,No,No,Regular,3111,168,329,115,Asian,Sweet
+50,Other,156,83,34.11,Heart Disease,99,117,157,114,Yes,,9164,5,7.9,No,No,Vegan,2599,120,145,53,Western,
+32,Male,156,100,41.09,Obesity,122,71,223,161,No,,12131,0,8.1,No,No,Regular,1682,147,307,31,Mediterranean,Salty
+18,Male,188,111,31.41,No Disease,151,87,213,222,No,,4668,0,7.5,No,Yes,Keto,1824,83,142,43,Western,Spicy
+50,Male,173,109,36.42,No Disease,149,116,276,205,No,,4205,3,6.2,No,No,Keto,2394,149,343,91,Mediterranean,Salty
+63,Other,164,91,33.83,Obesity,129,95,152,246,No,Nut Allergy,9782,4,9.0,No,No,Regular,1540,166,232,107,Asian,Salty
+62,Female,187,55,15.73,No Disease,118,96,280,161,No,,4023,4,7.0,No,No,Vegan,1926,180,279,128,Indian,Salty
+19,Female,162,84,32.01,Diabetes,98,98,187,135,No,,7222,5,6.4,No,No,Keto,1428,141,302,28,Western,
+61,Male,166,83,30.12,Obesity,154,66,159,163,No,,11221,4,9.5,Yes,No,Regular,3233,53,345,59,Mediterranean,Spicy
+71,Male,188,73,20.65,Obesity,123,88,203,240,No,,9914,4,4.4,No,Yes,Regular,1600,112,229,38,Mediterranean,Spicy
+45,Other,152,64,27.7,No Disease,118,117,155,129,Yes,,13396,1,9.4,No,No,Keto,1623,51,361,64,Indian,
+67,Female,153,81,34.6,Heart Disease,108,76,252,186,Yes,Lactose Intolerance,13696,5,5.5,Yes,No,Regular,3275,72,198,22,Asian,Spicy
+67,Female,190,78,21.61,Hypertension,143,82,279,79,No,,13011,0,5.0,No,No,Vegetarian,1246,52,128,41,Indian,Sweet
+33,Other,189,88,24.64,Heart Disease,143,116,204,117,No,Gluten Intolerance,14009,0,9.8,No,No,Regular,1719,83,317,108,Asian,Sweet
+67,Female,158,62,24.84,Hypertension,100,96,180,178,No,,13110,3,9.2,No,Yes,Regular,1533,121,186,94,Indian,Spicy
+37,Other,189,80,22.4,Diabetes,107,97,177,195,No,,4247,4,6.8,No,Yes,Keto,2984,69,348,128,Mediterranean,
+33,Male,165,119,43.71,Heart Disease,119,118,211,149,No,Gluten Intolerance,8483,6,8.9,No,No,Regular,2723,174,200,93,Western,Salty
+68,Female,180,108,33.33,No Disease,178,63,288,244,No,Lactose Intolerance,2021,6,9.6,No,No,Vegetarian,1749,108,118,130,Indian,
+50,Female,178,100,31.56,Diabetes,98,84,179,105,Yes,,6769,4,7.3,No,No,Regular,2274,185,324,72,Mediterranean,Spicy
+37,Female,162,104,39.63,No Disease,107,116,280,142,Yes,Lactose Intolerance,7927,1,6.7,No,No,Vegetarian,3284,198,390,52,Indian,Spicy
+44,Female,197,64,16.49,No Disease,111,116,201,249,No,,8964,2,5.0,No,No,Regular,2184,55,174,105,Western,
+38,Other,165,77,28.28,No Disease,94,64,295,126,Yes,,14216,6,7.4,No,No,Vegan,2307,149,276,112,Western,Spicy
+61,Male,157,80,32.46,Heart Disease,100,89,153,184,No,Lactose Intolerance,7348,1,8.7,Yes,Yes,Regular,3039,50,307,84,Indian,Salty
+39,Male,162,109,41.53,No Disease,145,86,264,176,Yes,,5808,2,7.0,No,No,Vegetarian,1721,137,118,115,Asian,Spicy
+52,Other,177,67,21.39,No Disease,114,62,277,196,No,,13960,3,9.0,No,No,Regular,2761,134,194,74,Indian,Salty
+56,Male,158,76,30.44,No Disease,126,112,227,89,No,,12911,3,5.9,No,Yes,Regular,1202,147,368,24,Mediterranean,Sweet
+27,Female,160,53,20.7,Diabetes,93,64,293,117,No,,5166,0,5.6,Yes,No,Regular,3369,168,150,88,Mediterranean,Salty
+62,Male,185,85,24.84,Diabetes,148,108,222,70,No,Nut Allergy,14304,5,5.8,Yes,No,Vegetarian,3344,155,370,22,Western,Spicy
+44,Male,181,60,18.31,Diabetes,96,72,258,95,Yes,,8684,1,7.6,No,No,Keto,1784,174,132,148,Indian,
+35,Male,197,103,26.54,Obesity,145,117,156,208,No,,14730,5,6.5,No,No,Regular,1580,102,278,30,Mediterranean,Spicy
+29,Male,157,71,28.8,Hypertension,145,93,270,133,Yes,Nut Allergy,7071,0,6.6,No,No,Regular,3028,115,275,105,Western,
+52,Female,188,111,31.41,No Disease,90,81,193,109,No,,5010,5,4.4,No,No,Vegan,2605,126,237,52,Asian,Spicy
+29,Other,158,66,26.44,No Disease,147,108,245,180,Yes,,7184,2,8.8,No,No,Keto,3143,157,131,81,Western,Salty
+62,Male,168,63,22.32,No Disease,113,110,158,75,No,Lactose Intolerance,11893,5,9.8,Yes,No,Keto,3298,55,165,40,Western,Spicy
+46,Other,165,94,34.53,No Disease,140,110,219,127,No,,12841,6,8.2,Yes,No,Regular,2559,133,316,56,Indian,Spicy
+37,Other,194,77,20.46,Diabetes,114,97,252,118,No,Nut Allergy,5048,1,7.3,No,No,Regular,1988,105,393,136,Asian,Salty
+63,Male,182,98,29.59,Hypertension,153,77,269,197,No,Lactose Intolerance,5834,5,8.5,Yes,No,Keto,3314,148,320,118,Asian,Spicy
+38,Female,190,66,18.28,Obesity,175,108,162,74,Yes,Nut Allergy,10507,0,5.1,No,Yes,Keto,2326,196,246,112,Western,Sweet
+62,Female,193,96,25.77,Diabetes,123,109,186,218,No,,12799,5,4.2,Yes,No,Keto,3334,175,229,66,Asian,Spicy
+63,Other,164,88,32.72,No Disease,172,86,249,98,No,,7864,5,6.7,No,No,Regular,2783,111,373,54,Indian,Salty
+53,Male,181,119,36.32,Diabetes,168,68,282,222,Yes,,4315,0,9.3,No,No,Vegan,1605,103,210,45,Asian,Sweet
+20,Other,157,113,45.84,Obesity,150,74,273,82,No,,5555,0,8.2,Yes,No,Keto,2552,65,241,69,Indian,Sweet
+64,Male,151,85,37.28,Diabetes,120,60,217,207,No,Gluten Intolerance,5779,6,9.6,No,No,Regular,1418,95,109,52,Asian,
+27,Female,154,94,39.64,Hypertension,166,110,156,156,No,Gluten Intolerance,6037,3,4.3,Yes,No,Vegetarian,2942,87,379,69,Indian,Salty
+32,Other,191,97,26.59,No Disease,176,111,161,162,No,Lactose Intolerance,4250,0,9.1,No,No,Regular,1797,191,245,117,Indian,Spicy
+39,Other,169,114,39.91,No Disease,177,82,206,185,No,Gluten Intolerance,4537,5,7.6,No,No,Vegetarian,1755,68,314,78,Mediterranean,Salty
+64,Male,192,83,22.52,Heart Disease,159,60,232,243,No,Nut Allergy,8315,0,6.3,Yes,No,Regular,1260,110,120,35,Western,Spicy
+54,Other,153,116,49.55,No Disease,122,106,293,146,No,,4966,0,9.1,No,No,Regular,2650,62,236,139,Mediterranean,Sweet
+76,Male,188,81,22.92,No Disease,99,76,201,151,Yes,,6439,4,8.6,No,No,Vegan,1899,139,352,53,Indian,
+71,Female,173,92,30.74,No Disease,174,64,278,106,No,,3400,0,8.4,Yes,Yes,Keto,2713,169,380,68,Western,
+28,Male,174,95,31.38,No Disease,95,118,299,194,No,,14509,4,7.8,No,No,Keto,2140,51,320,21,Indian,Salty
+21,Female,194,102,27.1,Heart Disease,104,87,207,105,No,Lactose Intolerance,13138,4,8.5,No,No,Vegetarian,3463,60,318,72,Asian,
+72,Male,173,95,31.74,Heart Disease,111,97,225,142,No,,14433,3,5.0,No,No,Vegetarian,1729,142,315,62,Indian,
+59,Male,184,100,29.54,No Disease,107,117,289,84,No,,4121,1,8.3,No,No,Regular,2776,74,188,100,Indian,Sweet
+32,Other,193,118,31.68,No Disease,117,76,172,97,No,,14139,1,6.3,Yes,No,Regular,1342,102,304,81,Mediterranean,
+41,Other,184,57,16.84,No Disease,135,77,208,75,No,,5093,6,7.6,No,Yes,Vegetarian,2294,86,122,88,Indian,
+25,Male,153,65,27.77,Hypertension,133,72,257,153,No,,14973,5,6.0,Yes,No,Keto,2877,115,389,32,Mediterranean,Spicy
+21,Female,186,94,27.17,Hypertension,141,65,286,104,Yes,,10595,1,9.0,No,No,Vegetarian,3257,55,204,38,Indian,Spicy
+36,Male,193,63,16.91,No Disease,116,86,220,204,Yes,,11065,2,6.1,No,No,Regular,2490,133,273,53,Western,Spicy
+56,Female,161,64,24.69,No Disease,179,76,171,240,No,Lactose Intolerance,13866,0,9.0,Yes,Yes,Regular,1542,179,319,88,Indian,Spicy
+76,Other,163,116,43.66,Heart Disease,179,90,275,84,No,Gluten Intolerance,4993,5,4.2,No,No,Regular,2285,121,249,88,Western,Salty
+38,Male,179,112,34.96,No Disease,99,101,239,131,Yes,Gluten Intolerance,8720,4,6.1,No,Yes,Vegan,2164,166,335,33,Indian,Salty
+31,Female,168,67,23.74,Heart Disease,172,88,234,125,No,,5782,2,9.6,No,No,Vegetarian,1457,82,229,71,Asian,Sweet
+76,Female,154,79,33.31,No Disease,145,100,295,167,No,,3629,1,9.2,No,No,Regular,2742,188,121,36,Indian,Sweet
+22,Female,186,81,23.41,Hypertension,158,66,269,178,No,,14826,4,6.8,No,No,Regular,2589,91,381,135,Western,
+57,Female,183,104,31.05,Diabetes,104,114,282,110,No,Gluten Intolerance,9886,5,8.6,No,Yes,Vegan,3167,79,232,30,Western,
+58,Female,165,79,29.02,Diabetes,97,62,280,76,No,,14790,0,8.8,No,Yes,Regular,2103,134,391,53,Western,Salty
+43,Other,174,110,36.33,Hypertension,96,60,214,209,Yes,,3920,6,6.6,No,No,Keto,3184,137,165,20,Indian,Spicy
+44,Other,184,63,18.61,Diabetes,178,82,181,235,No,Gluten Intolerance,12342,0,6.1,No,No,Regular,1427,84,234,101,Indian,Sweet
+34,Female,152,90,38.95,No Disease,135,102,183,202,No,,12586,1,6.5,No,No,Keto,3125,150,322,34,Mediterranean,Spicy
+68,Female,169,90,31.51,Heart Disease,166,119,228,223,No,,2591,5,4.0,Yes,No,Regular,3477,114,147,139,Indian,
+64,Other,181,118,36.02,No Disease,173,93,233,128,Yes,,13332,4,8.5,No,Yes,Keto,1498,95,169,25,Asian,
+24,Male,187,51,14.58,No Disease,144,119,220,150,No,Gluten Intolerance,8794,0,8.1,Yes,No,Vegan,2540,145,226,103,Asian,Sweet
+71,Other,161,95,36.65,No Disease,92,90,254,231,Yes,,4177,1,9.1,Yes,Yes,Vegan,2859,149,328,22,Mediterranean,Salty
+79,Other,168,93,32.95,Obesity,169,62,211,97,No,,11922,0,5.9,No,No,Regular,1500,128,249,139,Mediterranean,Spicy
+36,Other,160,97,37.89,No Disease,177,78,276,121,No,,2462,3,7.4,Yes,No,Keto,3202,103,390,90,Mediterranean,Sweet
+70,Male,161,77,29.71,No Disease,96,93,176,73,No,Nut Allergy,12229,6,5.7,No,No,Vegetarian,1637,181,322,145,Asian,Sweet
+53,Male,193,87,23.36,Diabetes,93,68,175,168,Yes,Lactose Intolerance,8255,3,10.0,Yes,No,Vegetarian,1240,109,266,71,Asian,
+40,Male,193,55,14.77,Diabetes,149,80,257,133,No,,8925,6,6.7,No,No,Regular,1638,189,365,41,Mediterranean,Sweet
+39,Male,173,55,18.38,Diabetes,111,83,253,94,No,,11480,4,4.6,No,No,Keto,1401,105,335,137,Asian,
+56,Male,183,107,31.95,Heart Disease,125,62,278,109,Yes,,12806,0,8.6,No,No,Vegetarian,3298,145,177,31,Indian,
+30,Other,159,98,38.76,No Disease,136,69,269,134,Yes,,3345,3,5.9,Yes,No,Vegan,1380,198,285,51,Mediterranean,Sweet
+67,Other,171,104,35.57,No Disease,116,63,172,211,No,,14161,6,6.1,No,No,Regular,3420,150,155,126,Western,Sweet
+36,Male,159,64,25.32,Diabetes,110,82,276,100,Yes,,11694,3,5.6,Yes,No,Vegan,3309,193,285,95,Indian,Spicy
+23,Male,196,111,28.89,No Disease,156,103,276,111,No,Nut Allergy,7624,6,5.9,No,Yes,Keto,1269,98,237,34,Indian,Sweet
+64,Male,151,117,51.31,Heart Disease,124,109,253,238,No,Lactose Intolerance,2430,4,5.6,Yes,No,Regular,2397,163,113,121,Indian,Salty
+37,Male,182,53,16.0,No Disease,125,90,281,230,Yes,,10884,6,7.5,No,No,Regular,2733,101,109,124,Mediterranean,Spicy
+32,Female,162,51,19.43,Hypertension,147,61,275,238,Yes,,3327,5,5.6,No,Yes,Vegetarian,3419,61,360,129,Mediterranean,
+47,Other,193,112,30.07,No Disease,112,112,168,74,No,,4154,6,9.4,Yes,No,Vegan,2028,81,120,67,Asian,Salty
+19,Other,182,67,20.23,Heart Disease,167,105,155,148,No,,14049,2,9.0,No,Yes,Regular,1828,144,397,81,Western,Sweet
+55,Male,164,114,42.39,Diabetes,131,73,204,207,Yes,Nut Allergy,11530,5,5.4,Yes,No,Vegetarian,1422,91,241,121,Western,
+51,Male,192,105,28.48,Hypertension,150,70,241,203,No,,4600,5,5.9,No,No,Regular,1273,169,368,145,Asian,Sweet
+39,Male,182,109,32.91,Diabetes,129,77,177,156,No,Lactose Intolerance,7574,1,7.5,No,No,Regular,2395,130,139,23,Indian,
+70,Male,159,66,26.11,Diabetes,131,63,207,150,No,,10363,5,4.8,No,Yes,Keto,1646,131,125,93,Indian,Sweet
+38,Female,162,79,30.1,No Disease,163,107,255,239,No,,3045,1,4.1,No,No,Regular,1538,197,128,142,Asian,Salty
+35,Male,180,70,21.6,No Disease,94,66,192,121,No,,5764,3,8.7,No,No,Vegetarian,3430,182,264,118,Indian,Sweet
+53,Other,180,99,30.56,Hypertension,139,104,219,125,No,,12469,6,7.1,No,Yes,Keto,1254,82,291,64,Asian,Salty
+74,Female,187,109,31.17,No Disease,90,82,209,178,No,Nut Allergy,10120,3,4.7,Yes,No,Regular,1373,192,162,115,Mediterranean,Spicy
+55,Female,156,116,47.67,No Disease,176,85,242,202,No,,12520,0,6.5,No,Yes,Regular,2326,124,264,135,Western,Salty
+67,Female,176,57,18.4,Obesity,144,99,263,91,Yes,Lactose Intolerance,5683,6,7.2,Yes,No,Vegan,2411,167,276,20,Asian,
+21,Male,178,57,17.99,No Disease,116,70,228,127,No,,5601,1,4.1,No,No,Vegetarian,3288,129,157,75,Mediterranean,Sweet
+59,Female,174,107,35.34,Heart Disease,116,106,198,75,Yes,,7748,1,8.3,No,No,Regular,2413,138,128,90,Asian,Spicy
+42,Female,193,113,30.34,No Disease,164,78,211,139,Yes,,6213,0,7.2,No,No,Vegetarian,3492,186,367,120,Western,Salty
+39,Female,155,86,35.8,No Disease,131,101,295,71,No,,4815,0,7.4,No,Yes,Keto,1444,82,332,52,Indian,
+23,Female,168,88,31.18,Heart Disease,107,94,264,223,Yes,Lactose Intolerance,10429,2,6.1,Yes,No,Regular,3001,88,245,88,Asian,
+38,Other,174,62,20.48,No Disease,127,60,287,198,No,,4193,6,9.5,No,No,Keto,1474,123,178,21,Western,Sweet
+18,Male,186,66,19.08,Obesity,111,83,181,211,No,Lactose Intolerance,2634,4,4.7,Yes,Yes,Regular,3114,58,212,27,Mediterranean,Spicy
+36,Other,172,85,28.73,No Disease,136,80,211,94,No,,2783,4,9.2,No,Yes,Regular,1456,74,366,110,Western,Sweet
+70,Female,196,82,21.35,No Disease,101,101,212,234,No,,13763,2,7.3,No,No,Keto,1617,117,341,39,Western,Sweet
+69,Male,160,98,38.28,Diabetes,168,118,194,224,Yes,,11591,6,9.5,No,No,Keto,3475,126,247,118,Mediterranean,Spicy
+57,Female,186,108,31.22,Diabetes,160,115,259,194,No,,12613,5,5.5,No,No,Vegan,2432,166,299,99,Mediterranean,Salty
+54,Male,159,113,44.7,Obesity,111,107,210,173,Yes,,2686,3,8.9,No,No,Regular,2845,181,207,88,Asian,
+34,Other,178,63,19.88,No Disease,100,109,194,181,Yes,,10697,1,5.1,No,No,Vegan,1592,59,259,79,Indian,Sweet
+57,Female,159,77,30.46,No Disease,100,106,234,120,No,,2100,3,9.1,No,No,Regular,3434,198,302,76,Asian,Sweet
+30,Male,194,77,20.46,No Disease,163,115,163,159,Yes,,11871,0,9.7,No,No,Regular,1918,85,135,107,Western,
+56,Other,161,111,42.82,No Disease,178,103,263,117,No,Gluten Intolerance,6387,1,8.9,Yes,No,Regular,1763,115,288,75,Asian,
+54,Male,196,118,30.72,Diabetes,144,110,215,81,Yes,,11671,0,6.1,No,Yes,Regular,3490,75,105,77,Asian,Spicy
+56,Female,195,117,30.77,Obesity,91,81,268,237,No,,3508,0,7.9,No,No,Regular,3035,69,149,81,Western,
+44,Female,178,101,31.88,Obesity,122,76,269,218,Yes,,11800,4,7.1,No,No,Keto,2717,152,176,75,Asian,Salty
+49,Male,152,81,35.06,No Disease,165,111,181,231,Yes,,4915,4,9.6,No,No,Vegan,3143,72,116,44,Western,Sweet
+66,Female,152,113,48.91,Diabetes,132,63,188,181,No,,6839,5,9.8,No,Yes,Keto,3243,127,322,108,Western,Sweet
+59,Female,163,78,29.36,Obesity,114,117,229,195,No,Nut Allergy,6806,4,5.8,Yes,No,Vegan,2761,55,243,133,Asian,
+43,Male,176,85,27.44,Diabetes,173,95,274,100,No,Lactose Intolerance,9627,0,6.4,Yes,No,Regular,2299,117,174,88,Asian,Sweet
+34,Other,181,58,17.7,Hypertension,95,113,291,135,No,,5719,5,8.7,No,No,Regular,1271,74,162,64,Asian,Sweet
+66,Male,184,85,25.11,Diabetes,141,111,245,108,No,Gluten Intolerance,13007,4,9.3,No,No,Regular,1935,52,350,81,Western,Sweet
+69,Other,155,77,32.05,No Disease,120,114,267,213,No,Gluten Intolerance,8189,3,4.6,No,No,Keto,3333,158,360,58,Asian,Salty
+48,Female,165,61,22.41,Diabetes,113,82,183,151,No,Nut Allergy,5390,4,8.8,No,No,Regular,3292,50,351,41,Mediterranean,Spicy
+22,Male,196,57,14.84,Heart Disease,111,72,281,79,No,,6133,0,4.4,No,No,Vegan,2738,79,129,97,Mediterranean,Spicy
+67,Other,195,84,22.09,Hypertension,148,76,186,127,No,,6400,1,5.6,No,No,Regular,2347,148,255,48,Mediterranean,
+37,Female,168,69,24.45,Diabetes,165,76,231,131,No,,10581,2,7.2,No,No,Regular,2339,119,185,108,Asian,Salty
+50,Male,175,52,16.98,Diabetes,114,118,217,211,No,,11891,2,5.2,Yes,No,Regular,2510,180,214,43,Western,Sweet
+76,Female,172,84,28.39,Hypertension,153,71,217,237,No,Gluten Intolerance,3796,6,9.6,Yes,No,Regular,3334,195,360,60,Indian,Sweet
+74,Male,198,104,26.53,Obesity,179,110,218,90,No,,8701,4,7.5,No,No,Vegetarian,3297,145,372,30,Mediterranean,
+66,Male,182,84,25.36,Diabetes,137,106,223,245,No,Nut Allergy,4926,5,8.3,No,No,Regular,3264,188,298,50,Asian,Sweet
+25,Female,157,94,38.14,Obesity,171,113,234,149,No,,10957,4,9.6,Yes,No,Regular,1305,121,365,132,Western,Salty
+68,Male,186,117,33.82,Heart Disease,158,67,233,181,No,,13386,5,6.4,No,No,Vegetarian,1263,61,141,57,Mediterranean,Salty
+53,Female,173,96,32.08,No Disease,140,110,271,187,No,,6853,5,4.2,No,No,Vegetarian,1766,81,256,36,Western,
+44,Female,158,76,30.44,No Disease,169,87,241,94,No,,2054,1,6.5,No,No,Regular,1234,55,378,50,Western,Spicy
+34,Other,193,68,18.26,No Disease,106,103,204,155,No,,9488,1,9.6,No,No,Regular,2973,72,353,143,Mediterranean,
+25,Female,193,62,16.64,Obesity,141,78,176,121,No,,9388,1,4.9,No,No,Regular,1649,69,110,97,Asian,Sweet
+36,Other,188,102,28.86,Obesity,160,87,251,91,No,Nut Allergy,9410,2,9.4,No,Yes,Regular,1934,159,332,111,Indian,Salty
+79,Other,174,85,28.08,No Disease,162,92,258,138,No,,3023,2,6.9,No,Yes,Regular,2993,58,129,113,Western,Spicy
+25,Other,168,61,21.61,No Disease,147,64,298,72,No,Lactose Intolerance,8865,4,9.4,Yes,No,Vegetarian,3114,137,145,56,Indian,Spicy
+52,Other,152,104,45.01,Heart Disease,161,103,200,121,No,Nut Allergy,4076,4,7.8,Yes,No,Vegetarian,1859,101,364,106,Western,Sweet
+57,Other,181,93,28.39,No Disease,96,114,296,131,No,,5804,3,5.8,No,No,Regular,2290,188,144,35,Western,Sweet
+75,Female,194,85,22.58,Heart Disease,130,99,290,188,No,,14675,5,8.7,No,No,Vegan,1582,104,289,133,Asian,Salty
+22,Other,191,96,26.32,No Disease,142,81,279,201,No,,6130,3,5.0,No,No,Vegetarian,2106,194,169,23,Mediterranean,Sweet
+23,Other,180,52,16.05,Diabetes,154,61,198,95,No,,3612,0,4.2,No,Yes,Vegan,1563,97,198,64,Asian,Spicy
+48,Female,184,116,34.26,Diabetes,116,107,225,132,No,,14597,5,8.3,No,No,Keto,2152,77,209,144,Indian,Spicy
+42,Male,162,67,25.53,No Disease,99,119,234,76,Yes,,2757,2,4.4,No,No,Vegan,3415,83,371,102,Mediterranean,Sweet
+38,Male,171,68,23.26,No Disease,174,74,273,185,No,,3912,6,9.3,No,No,Vegan,2214,189,300,41,Mediterranean,Spicy
+58,Female,179,52,16.23,Heart Disease,141,103,243,129,No,,8544,4,4.1,Yes,No,Keto,2744,77,297,110,Indian,Spicy
+62,Other,189,73,20.44,No Disease,113,91,231,190,No,Lactose Intolerance,10885,0,6.0,No,No,Regular,1542,95,104,109,Mediterranean,Sweet
+40,Female,174,59,19.49,No Disease,114,94,178,75,No,Gluten Intolerance,14223,2,7.3,No,Yes,Regular,1227,69,203,34,Western,Salty
+61,Other,154,101,42.59,No Disease,91,98,180,172,No,Gluten Intolerance,7027,6,6.5,No,No,Vegan,2978,181,372,143,Indian,Sweet
+34,Other,178,76,23.99,No Disease,101,113,280,123,Yes,,12818,3,8.3,No,No,Regular,3070,194,236,54,Western,Sweet
+71,Female,196,75,19.52,Hypertension,156,64,171,82,Yes,Lactose Intolerance,2289,1,7.3,Yes,Yes,Vegetarian,1354,162,342,23,Western,Salty
+61,Male,176,78,25.18,Obesity,120,102,150,219,Yes,,2657,0,6.5,No,No,Vegetarian,1710,120,206,72,Mediterranean,Spicy
+22,Other,160,97,37.89,Heart Disease,96,64,244,229,No,,6016,2,5.2,No,No,Keto,2366,162,313,97,Mediterranean,Spicy
+23,Male,180,88,27.16,Diabetes,113,97,249,223,No,,8418,6,5.5,No,No,Vegetarian,1325,174,256,20,Asian,Salty
+44,Male,160,62,24.22,Diabetes,127,88,219,188,No,Gluten Intolerance,4584,1,9.6,Yes,No,Regular,1620,116,345,92,Mediterranean,Sweet
+31,Other,197,86,22.16,Diabetes,142,87,203,199,No,Lactose Intolerance,7127,6,8.3,No,No,Regular,1360,176,139,35,Asian,Spicy
+65,Female,170,114,39.45,Obesity,127,86,184,154,No,Gluten Intolerance,2743,2,4.1,No,Yes,Regular,1642,186,263,70,Western,Salty
+34,Female,157,111,45.03,Heart Disease,155,62,150,75,Yes,Gluten Intolerance,8728,4,6.5,No,No,Vegetarian,1571,149,122,99,Indian,Spicy
+59,Other,175,93,30.37,No Disease,112,106,257,157,No,,2089,4,9.2,Yes,Yes,Regular,1295,143,387,41,Asian,Spicy
+46,Male,160,100,39.06,No Disease,153,71,262,175,Yes,,2182,6,6.0,No,No,Regular,2324,143,287,133,Western,Sweet
+41,Male,186,119,34.4,No Disease,93,118,160,124,Yes,,9829,2,5.4,No,No,Vegetarian,2432,163,168,98,Asian,Salty
+56,Female,180,113,34.88,Hypertension,132,83,197,188,Yes,,9391,6,8.3,No,No,Regular,2840,176,138,77,Indian,
+33,Male,171,110,37.62,No Disease,93,115,298,185,No,,3542,4,7.8,No,No,Vegetarian,1522,182,191,48,Asian,
+33,Other,194,105,27.9,No Disease,171,86,190,103,Yes,,9888,2,8.5,Yes,No,Keto,2540,157,293,124,Mediterranean,Sweet
+32,Other,189,116,32.47,Heart Disease,123,88,208,218,No,,13434,1,7.0,No,No,Vegan,3016,74,354,69,Indian,Sweet
+57,Other,167,111,39.8,Hypertension,133,86,271,231,No,,2983,4,4.4,Yes,No,Regular,3109,186,326,118,Western,Spicy
+60,Other,169,78,27.31,No Disease,168,111,164,90,No,,5103,5,6.4,No,No,Keto,2803,137,331,101,Mediterranean,Spicy
+28,Female,162,95,36.2,Obesity,157,88,265,163,No,Gluten Intolerance,9487,2,7.3,Yes,No,Regular,3305,187,337,80,Indian,Sweet
+34,Female,163,86,32.37,Heart Disease,95,115,228,210,No,,9818,2,5.1,No,Yes,Vegetarian,1273,77,215,112,Indian,Sweet
+62,Male,154,50,21.08,Hypertension,118,113,295,227,Yes,,3920,5,8.8,Yes,No,Regular,2352,87,142,76,Asian,Spicy
+79,Other,163,117,44.04,Heart Disease,165,104,223,189,No,Lactose Intolerance,3268,2,7.5,No,No,Vegetarian,1843,77,189,48,Indian,Sweet
+45,Female,182,78,23.55,Obesity,110,73,175,85,No,Lactose Intolerance,4662,6,8.1,No,No,Keto,1639,129,364,38,Western,Spicy
+33,Other,194,64,17.0,Heart Disease,143,66,207,191,No,,3575,3,9.8,Yes,No,Regular,1649,57,230,59,Indian,Salty
+46,Other,189,67,18.76,Hypertension,131,84,169,191,Yes,,5755,5,9.4,No,Yes,Regular,3057,77,396,53,Asian,
+69,Other,184,112,33.08,Obesity,160,107,207,219,No,,2797,5,8.6,No,No,Regular,3278,89,346,144,Indian,Salty
+69,Other,151,53,23.24,Heart Disease,129,87,237,106,No,,12420,6,6.6,No,Yes,Regular,3081,199,171,69,Asian,Spicy
+60,Female,190,79,21.88,No Disease,167,63,229,93,No,Gluten Intolerance,7770,5,9.5,No,Yes,Regular,2153,135,251,55,Indian,
+77,Male,185,111,32.43,Obesity,173,73,283,93,Yes,,9395,3,7.0,No,Yes,Vegetarian,3057,171,192,126,Indian,Salty
+43,Female,170,113,39.1,Diabetes,179,75,206,248,No,Lactose Intolerance,10342,5,4.5,No,No,Vegan,2614,117,226,57,Indian,
+53,Male,170,108,37.37,No Disease,126,84,208,117,No,,9719,6,6.6,No,No,Regular,2129,155,185,100,Asian,Sweet
+79,Other,179,85,26.53,Obesity,168,91,187,218,Yes,,2969,4,7.4,Yes,Yes,Regular,2097,118,263,22,Asian,Sweet
+71,Female,164,103,38.3,No Disease,137,63,262,180,No,,7599,1,7.1,No,No,Keto,3325,189,330,92,Indian,Spicy
+52,Other,151,68,29.82,Hypertension,141,108,248,125,Yes,,14135,2,7.1,No,No,Regular,3028,72,255,142,Indian,
+57,Other,195,57,14.99,Diabetes,155,103,193,148,No,,7508,0,8.4,No,No,Regular,1756,177,246,102,Western,
+39,Female,187,88,25.17,No Disease,153,76,288,153,Yes,Lactose Intolerance,7327,6,4.9,No,No,Regular,3284,114,127,35,Western,Sweet
+25,Male,171,59,20.18,Diabetes,147,89,202,191,Yes,,9965,5,8.7,No,No,Regular,1944,142,161,115,Asian,Salty
+20,Female,185,115,33.6,Obesity,93,75,252,109,No,,8847,3,4.4,No,Yes,Vegetarian,3498,111,185,136,Western,Salty
+46,Other,175,71,23.18,Diabetes,162,71,256,77,No,Nut Allergy,4072,1,7.2,Yes,Yes,Regular,1331,108,206,59,Mediterranean,Spicy
+23,Other,167,58,20.8,No Disease,132,63,276,235,No,,6672,1,9.1,Yes,No,Regular,1634,166,185,144,Western,
+62,Male,155,68,28.3,Diabetes,101,102,165,193,No,Gluten Intolerance,8947,4,6.4,No,No,Vegan,1346,105,310,81,Western,
+30,Female,179,93,29.03,Obesity,127,80,215,130,No,Nut Allergy,10364,6,7.0,Yes,Yes,Regular,2486,55,185,144,Mediterranean,Spicy
+49,Other,154,65,27.41,Heart Disease,132,85,250,177,No,,4953,1,6.3,No,Yes,Regular,2914,178,104,143,Western,Salty
+54,Female,160,52,20.31,No Disease,157,93,295,181,No,,3754,0,4.8,No,No,Vegan,3201,126,314,27,Asian,Salty
+35,Other,175,76,24.82,No Disease,125,119,231,154,No,,9268,6,4.6,No,Yes,Vegan,3381,118,151,125,Mediterranean,
+35,Male,171,68,23.26,Hypertension,153,113,256,71,No,Gluten Intolerance,13241,2,5.0,No,Yes,Vegetarian,1846,182,368,27,Asian,Salty
+78,Female,170,69,23.88,Hypertension,108,87,236,186,No,Nut Allergy,13564,5,5.7,No,No,Vegetarian,3414,93,251,54,Mediterranean,Spicy
+53,Female,190,62,17.17,Obesity,146,94,264,179,Yes,,9398,1,5.4,No,No,Keto,2738,97,315,27,Indian,Sweet
+23,Male,168,68,24.09,Diabetes,117,96,233,156,Yes,,5291,5,5.9,Yes,No,Regular,1258,160,377,100,Mediterranean,Sweet
+69,Other,186,62,17.92,No Disease,95,110,289,204,Yes,,12369,3,7.6,No,No,Regular,2936,163,119,134,Indian,
+54,Female,196,73,19.0,Hypertension,92,102,156,70,No,Gluten Intolerance,12111,3,5.6,No,No,Keto,2625,161,243,51,Mediterranean,Salty
+44,Female,189,70,19.6,No Disease,96,118,162,227,No,,13847,4,5.0,No,No,Regular,2248,158,132,40,Western,Salty
+62,Other,198,63,16.07,Hypertension,111,100,186,141,No,,4576,2,4.2,Yes,No,Vegetarian,2151,134,299,37,Mediterranean,
+73,Female,150,86,38.22,Obesity,124,80,165,228,No,,2640,0,8.2,No,No,Keto,3167,188,135,33,Mediterranean,
+72,Female,184,117,34.56,No Disease,101,119,177,157,No,,11747,4,4.1,No,No,Regular,1782,85,202,51,Asian,Spicy
+74,Female,191,108,29.6,Heart Disease,154,98,175,247,No,,9886,4,7.2,Yes,No,Regular,2417,117,238,108,Western,Salty
+77,Male,189,102,28.55,Obesity,123,109,230,99,No,,6278,3,9.9,Yes,No,Regular,2740,138,140,80,Western,
+69,Male,170,63,21.8,Hypertension,174,88,235,177,No,,8058,3,4.7,No,No,Vegetarian,1449,190,148,114,Asian,
+78,Male,168,70,24.8,No Disease,170,105,212,210,No,,2918,3,6.7,No,No,Regular,2848,175,372,37,Asian,Sweet
+65,Female,153,83,35.46,No Disease,145,108,268,91,No,,10015,0,7.3,Yes,No,Regular,2662,189,333,99,Asian,Spicy
+68,Female,175,99,32.33,Diabetes,179,119,291,85,No,,9967,0,9.5,No,No,Regular,1737,148,121,134,Asian,Salty
+27,Other,151,103,45.17,Heart Disease,97,74,158,95,No,Lactose Intolerance,11633,5,5.5,No,Yes,Keto,1483,190,128,64,Asian,
+60,Other,158,83,33.25,Heart Disease,130,66,190,92,Yes,,12476,2,7.7,No,No,Regular,2158,127,221,143,Mediterranean,Salty
+52,Female,177,106,33.83,Diabetes,179,94,231,74,No,,13908,1,4.4,No,No,Regular,1774,133,258,83,Western,Salty
+21,Other,172,53,17.92,No Disease,175,71,161,232,Yes,Nut Allergy,10663,1,4.5,No,No,Regular,3208,84,179,58,Asian,
+28,Other,175,60,19.59,No Disease,134,81,208,226,Yes,,14725,5,4.0,No,No,Vegan,3492,174,399,91,Mediterranean,Salty
+29,Female,199,55,13.89,Diabetes,123,73,205,98,No,,13747,0,5.7,Yes,No,Regular,1685,77,354,41,Western,Spicy
+47,Male,165,92,33.79,Heart Disease,135,81,166,116,No,Gluten Intolerance,6730,5,4.8,No,No,Regular,1597,139,282,24,Indian,Sweet
+75,Male,160,75,29.3,Diabetes,106,110,204,198,No,Nut Allergy,10015,4,6.1,No,No,Regular,2304,77,308,147,Asian,
+37,Other,186,52,15.03,No Disease,108,92,195,81,No,Lactose Intolerance,9940,5,6.1,Yes,No,Vegetarian,3090,114,378,94,Western,Salty
+30,Female,165,93,34.16,Diabetes,121,114,297,201,Yes,Nut Allergy,11092,0,9.6,No,Yes,Vegetarian,1297,129,356,115,Asian,Spicy
+19,Other,170,50,17.3,No Disease,139,95,298,127,No,Gluten Intolerance,12477,6,6.7,No,Yes,Vegan,1668,99,224,88,Asian,Sweet
+48,Male,192,51,13.83,No Disease,177,94,261,119,No,Nut Allergy,9094,6,5.7,No,No,Regular,2261,100,144,95,Western,
+52,Male,173,91,30.41,Heart Disease,138,107,253,154,Yes,,12932,5,7.5,Yes,No,Regular,2588,131,170,110,Mediterranean,
+64,Other,152,88,38.09,No Disease,96,61,184,240,No,,13679,0,8.4,Yes,No,Regular,2362,179,195,107,Indian,Salty
+28,Male,177,111,35.43,No Disease,169,119,273,112,Yes,Gluten Intolerance,9839,3,8.3,No,No,Regular,3369,159,250,41,Mediterranean,Salty
+29,Male,151,52,22.81,Obesity,178,70,279,222,No,,8597,3,5.4,No,No,Keto,3305,170,233,101,Indian,Spicy
+58,Male,190,71,19.67,No Disease,145,114,188,204,No,,6221,5,7.3,No,No,Vegetarian,2380,84,101,70,Indian,Sweet
+52,Other,187,99,28.31,Heart Disease,120,99,262,106,No,Nut Allergy,13559,5,4.3,No,No,Keto,2133,140,251,39,Western,Spicy
+27,Female,194,74,19.66,Heart Disease,164,62,201,100,No,,10236,6,6.9,No,No,Regular,1573,84,113,104,Western,Salty
+23,Female,161,54,20.83,No Disease,156,65,275,75,No,,10437,2,4.5,Yes,No,Keto,1346,107,261,59,Asian,Salty
+61,Female,158,72,28.84,Obesity,172,113,211,183,No,,13598,1,4.1,No,No,Regular,1647,179,240,46,Western,Sweet
+69,Other,159,64,25.32,Hypertension,153,70,161,168,No,,6489,0,4.7,No,No,Regular,2124,101,315,59,Western,
+77,Other,173,82,27.4,Diabetes,158,72,164,140,No,,13186,1,7.5,Yes,No,Keto,1663,178,135,82,Western,Spicy
+43,Other,153,86,36.74,No Disease,102,114,156,124,No,Lactose Intolerance,9812,1,7.5,No,No,Regular,1807,179,185,106,Asian,Salty
+59,Female,182,67,20.23,Diabetes,105,106,165,129,Yes,,14219,2,6.2,No,No,Regular,2495,178,313,49,Western,Spicy
+43,Other,188,94,26.6,Hypertension,141,78,178,146,Yes,,13714,4,7.2,No,No,Keto,2828,88,338,96,Mediterranean,Sweet
+33,Male,194,101,26.84,Diabetes,118,76,196,133,No,Lactose Intolerance,9966,3,4.6,No,No,Vegan,1882,51,297,90,Western,Sweet
+22,Other,156,80,32.87,Obesity,96,93,260,75,No,,5918,5,8.0,No,No,Regular,1911,160,301,146,Indian,
+52,Female,194,83,22.05,No Disease,142,90,154,159,Yes,,5264,4,6.0,No,Yes,Vegetarian,1293,158,104,139,Mediterranean,Sweet
+70,Other,172,57,19.27,Heart Disease,170,71,236,207,No,,2235,1,6.6,Yes,No,Regular,3471,112,322,136,Mediterranean,Sweet
+54,Female,174,75,24.77,Heart Disease,119,103,203,153,No,Gluten Intolerance,11638,5,9.2,Yes,Yes,Vegan,1982,198,295,96,Asian,
+73,Male,197,64,16.49,No Disease,118,87,239,132,No,,13716,5,5.0,Yes,No,Regular,2966,129,251,91,Indian,
+26,Other,182,76,22.94,No Disease,164,96,260,186,Yes,,2401,0,7.8,Yes,No,Vegetarian,3479,171,137,54,Mediterranean,Sweet
+74,Female,187,93,26.59,Diabetes,158,60,233,214,Yes,,9881,1,6.1,No,No,Vegetarian,3070,135,352,60,Western,Salty
+39,Other,161,90,34.72,Heart Disease,161,70,173,173,No,Gluten Intolerance,13689,4,8.0,No,No,Keto,2439,143,375,103,Indian,Spicy
+52,Female,163,50,18.82,No Disease,96,118,268,248,No,Lactose Intolerance,2970,2,5.9,No,No,Keto,2610,102,361,38,Indian,Sweet
+65,Other,176,63,20.34,No Disease,112,73,174,145,No,,2353,2,4.6,No,No,Keto,1390,74,329,123,Western,Salty
+25,Other,198,64,16.32,No Disease,163,114,221,161,No,,10882,4,9.3,Yes,No,Vegan,2310,144,230,123,Western,Salty
+54,Female,170,81,28.03,Diabetes,100,119,169,163,No,,6621,1,7.7,No,No,Keto,3449,171,148,140,Indian,Spicy
+31,Male,196,90,23.43,No Disease,100,88,172,134,Yes,,13680,3,6.9,No,No,Regular,2786,133,168,96,Western,Salty
+75,Male,155,119,49.53,Hypertension,116,80,175,106,Yes,Nut Allergy,13073,0,7.1,No,Yes,Vegetarian,3152,129,187,144,Asian,
+60,Other,176,113,36.48,Obesity,109,68,222,152,Yes,,14214,2,8.2,No,No,Regular,3393,187,123,22,Mediterranean,Sweet
+50,Female,191,82,22.48,No Disease,152,106,267,173,Yes,,10500,0,6.7,No,No,Regular,2132,136,375,127,Western,Sweet
+53,Male,188,99,28.01,Diabetes,107,104,266,109,Yes,,10572,3,4.6,No,No,Regular,1375,81,384,127,Mediterranean,Spicy
+34,Male,172,70,23.66,Heart Disease,174,90,267,72,No,Gluten Intolerance,12952,2,9.8,No,No,Regular,3404,196,121,124,Mediterranean,Spicy
+53,Other,164,102,37.92,No Disease,142,94,248,107,Yes,,11721,3,4.4,Yes,No,Regular,1985,78,366,130,Western,Sweet
+38,Other,170,97,33.56,Heart Disease,120,66,152,209,No,,5832,0,7.7,No,No,Keto,3178,153,171,52,Mediterranean,Spicy
+66,Male,186,74,21.39,Obesity,175,96,275,155,No,,10655,3,7.6,No,No,Regular,1795,137,234,128,Mediterranean,Salty
+62,Female,188,112,31.69,No Disease,116,67,229,87,Yes,Gluten Intolerance,6838,6,8.0,No,No,Vegetarian,3284,119,287,48,Asian,Sweet
+56,Female,189,112,31.35,No Disease,102,94,287,138,No,,14156,3,6.7,No,No,Keto,2985,65,103,47,Asian,Sweet
+67,Male,150,117,52.0,No Disease,129,101,207,193,No,,14073,1,6.5,Yes,No,Regular,1862,77,274,119,Asian,Spicy
+61,Female,172,83,28.06,Hypertension,173,82,166,202,No,,11203,0,4.0,Yes,No,Regular,1603,150,124,108,Western,Sweet
+66,Male,189,66,18.48,Diabetes,142,86,267,126,No,,14264,5,6.9,Yes,No,Regular,2217,97,131,131,Asian,Salty
+53,Male,183,71,21.2,No Disease,115,93,291,182,No,,13757,5,7.5,No,No,Regular,3273,71,382,103,Mediterranean,
+25,Other,178,73,23.04,Obesity,94,106,230,152,No,,3173,0,6.2,No,Yes,Regular,2785,76,258,39,Western,Salty
+62,Other,163,97,36.51,Hypertension,122,61,227,94,No,,5269,2,9.9,Yes,No,Keto,2891,103,202,115,Mediterranean,Salty
+63,Other,161,59,22.76,No Disease,169,87,228,202,No,,8429,1,6.9,No,No,Keto,1986,198,271,89,Asian,
+71,Other,179,79,24.66,Diabetes,92,111,158,73,No,Gluten Intolerance,5234,3,9.4,No,No,Regular,2324,182,153,148,Indian,Spicy
+74,Female,198,112,28.57,Heart Disease,161,74,212,116,Yes,,2749,1,5.3,No,No,Vegan,2326,139,150,114,Western,Sweet
+42,Male,176,118,38.09,No Disease,127,113,225,197,No,,6728,0,5.7,Yes,No,Regular,2618,195,275,148,Mediterranean,Sweet
+37,Female,157,119,48.28,No Disease,97,104,181,87,Yes,,13570,2,7.8,No,No,Vegetarian,2038,152,264,72,Mediterranean,Spicy
+54,Other,175,99,32.33,No Disease,116,95,263,114,Yes,,5439,3,9.1,No,No,Regular,2368,118,304,84,Indian,Spicy
+25,Female,153,77,32.89,Diabetes,142,81,239,157,No,,6829,6,7.0,No,No,Vegan,1597,144,108,113,Western,Spicy
+30,Male,166,101,36.65,Diabetes,173,111,161,151,No,,9258,5,8.2,No,No,Regular,1768,167,107,114,Mediterranean,Salty
+34,Other,176,84,27.12,Diabetes,156,79,247,207,No,,2057,0,8.2,No,No,Regular,1709,168,279,71,Mediterranean,Sweet
+36,Female,173,117,39.09,No Disease,108,61,234,167,Yes,,9422,3,6.3,No,No,Vegan,3095,177,284,114,Indian,
+52,Male,162,94,35.82,Diabetes,93,72,217,123,No,,2269,6,8.2,No,Yes,Regular,2832,148,349,62,Indian,Salty
+60,Other,186,63,18.21,Heart Disease,174,111,279,199,No,,3557,2,6.2,No,Yes,Vegan,1945,107,259,135,Asian,Spicy
+39,Other,158,111,44.46,No Disease,163,113,207,159,Yes,,12440,4,8.5,No,Yes,Vegetarian,1280,182,267,102,Indian,Spicy
+56,Female,164,96,35.69,Diabetes,91,85,187,220,No,,7567,5,7.3,No,No,Vegan,3481,91,128,142,Indian,Sweet
+42,Female,154,81,34.15,No Disease,146,76,176,128,No,Gluten Intolerance,3590,2,7.2,No,No,Vegetarian,2756,96,170,147,Mediterranean,Salty
+32,Other,187,107,30.6,Diabetes,138,97,237,235,Yes,,3806,3,8.4,No,No,Regular,2835,104,135,83,Asian,
+30,Female,181,63,19.23,Diabetes,130,81,284,249,No,,2568,1,9.2,Yes,No,Regular,2868,133,232,25,Western,
+25,Male,163,77,28.98,Hypertension,95,67,174,210,No,,13488,0,5.1,Yes,No,Regular,1393,76,171,60,Western,Spicy
+64,Female,198,74,18.88,Obesity,110,90,281,89,No,Gluten Intolerance,5480,5,5.2,No,No,Keto,1245,89,219,101,Western,
+47,Male,172,98,33.13,Diabetes,103,107,182,85,No,,14264,0,5.6,No,No,Keto,1509,109,291,70,Western,Sweet
+46,Male,158,88,35.25,No Disease,132,104,201,128,No,Lactose Intolerance,10077,5,4.7,Yes,No,Vegetarian,2603,110,219,109,Mediterranean,Salty
+32,Female,182,73,22.04,No Disease,100,116,205,223,Yes,,6091,1,6.1,No,No,Keto,2848,124,225,87,Asian,Salty
+41,Female,158,55,22.03,Obesity,128,118,275,139,Yes,,13590,3,7.2,No,No,Regular,1667,194,325,122,Mediterranean,
+36,Other,172,94,31.77,Diabetes,98,72,167,140,No,Lactose Intolerance,8238,6,8.4,No,No,Regular,1219,80,190,94,Asian,
+37,Female,151,109,47.8,Hypertension,124,97,272,146,No,Lactose Intolerance,4933,4,5.8,Yes,No,Vegan,3140,65,315,88,Western,Salty
+42,Male,170,74,25.61,Heart Disease,168,112,296,138,Yes,,2287,5,8.3,No,Yes,Regular,3272,78,150,121,Asian,Salty
+65,Female,178,107,33.77,No Disease,144,75,213,183,No,,9409,6,7.2,Yes,Yes,Regular,3076,140,144,136,Mediterranean,
+60,Male,156,56,23.01,Hypertension,160,63,283,139,No,Nut Allergy,12356,4,4.8,No,No,Regular,2768,81,292,86,Asian,Salty
+49,Male,162,76,28.96,Hypertension,175,99,212,222,Yes,,14363,1,5.6,No,No,Vegetarian,2922,172,194,66,Indian,Sweet
+25,Female,174,50,16.51,Diabetes,149,86,191,235,No,,10035,4,7.5,No,No,Regular,2385,94,240,144,Asian,Sweet
+59,Other,168,57,20.2,Heart Disease,123,81,169,139,No,,8245,6,7.6,No,No,Regular,2230,106,366,104,Indian,Salty
+69,Female,153,112,47.84,Hypertension,154,101,158,75,Yes,,10759,1,6.1,Yes,No,Regular,3065,59,218,79,Indian,Sweet
+53,Male,199,83,20.96,No Disease,130,82,154,210,No,Lactose Intolerance,3760,3,6.2,No,Yes,Regular,3430,108,292,44,Mediterranean,Sweet
+19,Other,175,106,34.61,Hypertension,157,97,241,224,Yes,,10653,6,4.6,No,No,Regular,2907,82,120,149,Mediterranean,Spicy
+34,Female,164,75,27.89,No Disease,105,106,228,88,No,Nut Allergy,10057,6,4.6,Yes,No,Keto,2552,150,286,43,Western,
+33,Male,180,116,35.8,No Disease,129,68,270,74,No,Nut Allergy,8869,2,7.2,No,No,Regular,2386,72,346,80,Western,
+79,Female,173,63,21.05,Heart Disease,94,72,248,184,No,,8896,4,6.1,No,No,Vegan,1318,194,112,87,Indian,Spicy
+79,Female,193,69,18.52,Heart Disease,132,60,260,97,No,,4462,1,5.2,No,No,Regular,1780,125,337,113,Indian,
+47,Other,165,52,19.1,Obesity,157,83,280,112,No,,8890,4,9.6,No,No,Regular,1540,171,100,79,Asian,Sweet
+55,Male,157,86,34.89,Obesity,95,107,220,147,No,,3563,1,6.6,No,No,Regular,1318,175,107,95,Indian,Spicy
+23,Male,157,83,33.67,Hypertension,120,62,209,159,No,,8783,2,9.7,Yes,No,Regular,1926,110,134,52,Western,Salty
+41,Other,192,89,24.14,Obesity,144,114,218,196,Yes,Lactose Intolerance,11620,0,9.8,No,Yes,Regular,2455,87,150,70,Western,Spicy
+67,Female,163,71,26.72,Hypertension,171,95,239,234,No,,10438,0,7.0,No,No,Keto,2492,64,103,40,Asian,
+40,Male,186,61,17.63,Hypertension,136,88,207,88,No,,13264,3,9.6,Yes,No,Vegan,2212,124,194,147,Indian,
+38,Male,194,106,28.16,Heart Disease,165,86,298,245,No,,8633,4,4.5,Yes,No,Keto,1759,119,380,49,Asian,Spicy
+32,Female,157,60,24.34,No Disease,172,73,167,137,No,,9347,4,8.1,Yes,Yes,Regular,3212,65,299,138,Western,Spicy
+30,Female,199,119,30.05,No Disease,109,76,286,137,Yes,,10436,2,8.8,No,No,Regular,2619,140,139,137,Western,Sweet
+77,Male,165,90,33.06,Heart Disease,130,106,170,211,No,,13125,0,6.7,No,No,Vegetarian,2376,176,355,109,Indian,Sweet
+62,Male,198,85,21.68,Hypertension,170,107,292,249,No,,4923,2,9.4,No,Yes,Regular,1885,195,334,104,Mediterranean,
+46,Female,174,50,16.51,Diabetes,164,79,223,214,No,Lactose Intolerance,14526,3,6.7,No,No,Regular,2345,160,210,26,Asian,Sweet
+45,Male,162,71,27.05,Hypertension,113,116,242,197,Yes,,7062,1,9.4,Yes,No,Regular,1834,178,277,53,Indian,Spicy
+32,Other,194,115,30.56,Hypertension,120,97,196,77,No,Lactose Intolerance,13864,2,7.5,No,Yes,Regular,1895,127,285,145,Indian,Spicy
+21,Male,190,50,13.85,Heart Disease,107,72,239,139,No,,7527,6,9.2,No,Yes,Regular,1521,110,187,74,Western,Spicy
+42,Other,179,63,19.66,No Disease,151,118,225,235,Yes,Nut Allergy,3368,6,8.6,No,No,Keto,1522,137,210,96,Mediterranean,Spicy
+40,Other,155,63,26.22,No Disease,150,104,179,98,No,Nut Allergy,4545,1,9.9,No,No,Regular,3271,51,105,131,Western,
+41,Other,177,67,21.39,Obesity,118,103,274,140,No,,14010,4,4.1,No,No,Vegan,1943,164,303,89,Indian,Spicy
+32,Female,172,110,37.18,Heart Disease,102,111,151,216,Yes,Lactose Intolerance,10034,0,4.2,No,No,Regular,1291,67,378,56,Indian,
+69,Other,187,94,26.88,No Disease,144,91,225,189,No,,3812,2,8.3,Yes,No,Regular,2231,85,111,72,Mediterranean,Spicy
+20,Female,163,86,32.37,Diabetes,100,76,169,227,No,,2074,6,9.1,No,No,Vegetarian,2341,155,376,74,Mediterranean,Salty
+76,Other,177,76,24.26,No Disease,150,109,221,203,No,,12814,1,5.3,No,No,Vegetarian,3206,139,140,46,Western,Spicy
+51,Other,158,117,46.87,Hypertension,134,92,228,76,Yes,Gluten Intolerance,12094,4,8.9,No,No,Vegetarian,3346,199,233,93,Western,Spicy
+50,Male,181,113,34.49,Hypertension,168,89,281,185,No,,10515,2,9.1,No,No,Vegan,3217,152,191,53,Western,Spicy
+79,Female,165,92,33.79,No Disease,151,103,243,184,No,Gluten Intolerance,10435,5,6.0,No,Yes,Keto,2776,96,368,73,Mediterranean,Sweet
+68,Female,161,115,44.37,No Disease,132,75,196,79,No,Nut Allergy,8475,0,4.8,No,No,Vegetarian,3172,104,104,35,Asian,Sweet
+43,Female,190,100,27.7,Heart Disease,179,68,178,88,No,,6166,0,8.5,No,No,Regular,2505,60,177,148,Asian,Spicy
+54,Female,166,67,24.31,Diabetes,115,70,203,76,No,,8666,3,7.9,Yes,No,Regular,1404,126,130,42,Western,Sweet
+63,Other,175,99,32.33,Heart Disease,134,67,207,144,No,,13048,0,9.5,No,No,Vegan,2059,108,395,143,Indian,Salty
+19,Other,184,89,26.29,Diabetes,157,86,179,230,No,,6914,5,5.3,Yes,No,Regular,2469,71,174,88,Mediterranean,Sweet
+69,Male,174,114,37.65,No Disease,95,66,155,99,Yes,Gluten Intolerance,12648,0,9.8,No,No,Regular,1377,164,136,42,Asian,Spicy
+23,Male,178,55,17.36,Obesity,174,104,244,146,Yes,,4276,5,4.7,Yes,Yes,Vegan,2719,70,139,94,Asian,
+76,Male,153,116,49.55,No Disease,94,100,150,110,No,,4935,0,7.3,No,Yes,Vegetarian,2179,183,199,49,Indian,
+67,Other,173,108,36.09,Heart Disease,167,79,209,192,No,,10950,2,7.7,No,No,Regular,3477,171,121,33,Asian,Sweet
+70,Male,173,118,39.43,No Disease,136,118,203,88,Yes,Lactose Intolerance,9513,6,4.0,No,No,Regular,3204,180,259,58,Asian,Sweet
+58,Male,183,86,25.68,Diabetes,151,66,179,218,No,,3379,4,4.3,No,No,Regular,3073,100,202,28,Asian,
+71,Other,179,118,36.83,No Disease,170,84,254,172,No,,3062,3,5.9,No,No,Keto,2572,192,107,54,Indian,Salty
+50,Other,191,94,25.77,No Disease,135,72,217,126,No,Lactose Intolerance,6616,5,8.8,No,Yes,Regular,2847,136,327,56,Western,Spicy
+37,Female,178,75,23.67,No Disease,173,97,160,144,No,,6190,0,9.5,No,No,Regular,1755,180,262,54,Asian,
+70,Male,163,115,43.28,No Disease,142,63,191,204,Yes,,7975,4,6.0,No,Yes,Vegetarian,1645,156,343,126,Mediterranean,Salty
+70,Female,159,87,34.41,No Disease,101,85,195,162,No,,6104,1,9.6,No,No,Vegan,1440,187,103,44,Mediterranean,
+62,Other,167,68,24.38,No Disease,171,104,243,149,Yes,,3102,0,8.6,No,No,Vegan,3277,83,239,34,Asian,Sweet
+65,Female,186,69,19.94,No Disease,179,98,263,99,No,Gluten Intolerance,2393,5,5.7,No,Yes,Regular,1226,97,340,71,Western,
+59,Female,152,59,25.54,No Disease,164,94,283,138,Yes,,10929,6,7.3,No,No,Vegetarian,2299,96,399,88,Indian,Sweet
+66,Female,197,102,26.28,Obesity,153,118,163,202,No,Nut Allergy,8320,2,6.2,Yes,No,Vegetarian,2122,136,134,149,Mediterranean,Sweet
+18,Other,173,67,22.39,Diabetes,91,100,235,168,Yes,,14658,4,7.3,No,Yes,Vegetarian,2612,111,149,70,Asian,Sweet
+22,Male,158,62,24.84,Heart Disease,106,85,238,125,No,Gluten Intolerance,7586,6,9.9,No,No,Regular,2911,116,121,119,Asian,Sweet
+54,Male,190,102,28.25,Diabetes,106,81,186,245,No,Gluten Intolerance,3876,5,7.0,Yes,No,Regular,1606,116,109,56,Indian,Spicy
+50,Female,169,74,25.91,Obesity,135,105,208,183,No,,9906,6,5.5,Yes,No,Vegan,1444,118,119,104,Asian,Sweet
+47,Male,191,107,29.33,Diabetes,137,98,172,196,Yes,,7342,3,5.4,No,No,Regular,1299,191,141,53,Asian,Salty
+20,Female,156,100,41.09,No Disease,98,77,214,243,Yes,Gluten Intolerance,13370,6,5.2,No,No,Keto,1664,103,338,40,Indian,Sweet
+18,Other,154,107,45.12,Diabetes,133,62,295,116,No,,13349,6,5.1,No,No,Regular,2792,87,199,61,Western,Sweet
+37,Male,177,59,18.83,Obesity,127,81,229,99,No,,11478,1,8.5,No,No,Regular,2874,159,158,56,Western,Sweet
+48,Female,188,52,14.71,No Disease,132,111,232,94,No,Nut Allergy,5360,1,8.3,No,No,Regular,2173,189,365,129,Mediterranean,Spicy
+35,Female,186,57,16.48,Obesity,106,108,264,123,No,,12330,5,8.1,No,Yes,Regular,3127,145,197,52,Western,
+79,Female,165,116,42.61,Heart Disease,94,92,267,173,No,,9825,1,7.9,No,Yes,Keto,3318,87,391,136,Indian,
+46,Other,161,75,28.93,Hypertension,157,117,176,132,Yes,Nut Allergy,12350,5,4.3,No,No,Vegetarian,1992,50,202,89,Mediterranean,
+49,Female,163,96,36.13,No Disease,145,65,253,87,Yes,,5990,0,8.5,Yes,No,Regular,1978,154,271,29,Asian,Sweet
+61,Male,190,113,31.3,No Disease,155,75,255,211,No,,2328,6,4.4,No,No,Keto,2204,174,292,75,Mediterranean,Salty
+56,Other,199,80,20.2,Obesity,105,115,236,245,Yes,,6037,4,10.0,No,No,Vegetarian,2081,147,382,36,Mediterranean,Spicy
+48,Other,189,99,27.71,Diabetes,125,93,178,201,No,,9970,0,6.6,No,No,Regular,2007,79,206,128,Mediterranean,
+69,Male,182,80,24.15,Hypertension,93,101,184,136,No,Gluten Intolerance,14723,2,4.4,No,No,Keto,1344,65,313,50,Indian,Spicy
+71,Male,174,50,16.51,No Disease,96,63,180,138,No,Nut Allergy,13234,0,9.5,Yes,No,Keto,1658,103,313,139,Asian,Salty
+43,Female,167,83,29.76,Diabetes,97,115,216,185,No,Lactose Intolerance,10717,4,9.2,No,No,Regular,2410,165,205,125,Indian,
+49,Other,186,95,27.46,No Disease,100,112,180,137,No,,8056,0,8.2,No,No,Regular,3421,155,154,144,Asian,
+61,Other,178,54,17.04,Diabetes,165,106,276,93,No,Lactose Intolerance,3895,2,4.9,Yes,No,Vegan,1767,192,106,118,Indian,
+37,Other,188,54,15.28,Hypertension,171,84,252,241,Yes,Lactose Intolerance,10726,1,8.6,No,No,Vegetarian,1288,161,131,102,Western,Spicy
+44,Male,197,108,27.83,No Disease,93,68,282,185,No,Lactose Intolerance,4131,4,9.0,No,No,Regular,2285,71,177,25,Western,Salty
+66,Female,181,65,19.84,Diabetes,133,118,197,189,No,,12287,0,4.3,No,No,Regular,1648,59,200,74,Western,Spicy
+75,Female,180,84,25.93,Diabetes,166,63,180,142,Yes,Lactose Intolerance,7617,5,5.3,No,No,Keto,2821,50,304,54,Indian,Spicy
+67,Female,189,101,28.27,No Disease,100,101,194,108,Yes,Nut Allergy,3621,0,5.1,Yes,No,Vegetarian,3030,116,206,123,Indian,Salty
+20,Male,196,115,29.94,Diabetes,101,68,183,91,No,,9598,6,7.0,No,No,Vegan,1541,199,306,84,Asian,Salty
+77,Female,180,101,31.17,No Disease,151,77,195,88,No,,14449,4,6.5,No,No,Vegetarian,3071,196,319,144,Mediterranean,
+46,Other,179,78,24.34,Hypertension,144,106,213,231,No,,8275,4,6.7,Yes,No,Regular,1578,70,277,75,Mediterranean,Salty
+26,Female,157,53,21.5,Diabetes,144,112,279,132,Yes,,9503,0,4.6,No,No,Regular,3486,110,203,144,Mediterranean,Sweet
+74,Other,178,114,35.98,No Disease,120,98,177,78,No,Lactose Intolerance,13837,1,7.7,No,No,Regular,1602,62,267,111,Western,Spicy
+49,Female,150,91,40.44,Diabetes,150,78,298,121,No,,11686,3,8.8,No,No,Regular,2382,133,152,20,Indian,Spicy
+52,Female,187,61,17.44,Obesity,130,116,261,201,No,,13667,4,8.9,No,No,Vegetarian,1405,198,311,121,Indian,
+50,Female,181,74,22.59,Heart Disease,99,119,297,175,Yes,Lactose Intolerance,2285,2,5.9,No,No,Regular,1870,197,176,71,Asian,Sweet
+68,Male,150,88,39.11,Obesity,103,107,223,100,No,,4668,3,9.4,Yes,No,Regular,3302,184,129,32,Indian,Sweet
+76,Male,195,88,23.14,Hypertension,97,103,295,143,No,,7556,3,6.5,Yes,No,Regular,2286,124,329,35,Asian,Spicy
+59,Female,153,83,35.46,Diabetes,176,117,176,113,Yes,,9334,5,4.4,Yes,No,Keto,2422,92,286,61,Asian,Spicy
+34,Male,152,53,22.94,Obesity,174,114,166,237,No,,9822,5,8.7,No,No,Regular,1467,129,172,135,Western,
+36,Male,188,102,28.86,No Disease,93,87,205,138,No,,4034,4,5.6,No,Yes,Vegetarian,2410,74,235,124,Indian,Salty
+52,Female,173,99,33.08,Hypertension,117,76,161,176,No,,12966,4,6.2,No,No,Regular,2341,128,171,50,Indian,Sweet
+49,Other,155,73,30.39,Obesity,137,72,174,95,No,,4935,6,8.0,Yes,No,Vegetarian,1408,127,162,54,Indian,Salty
+56,Male,189,62,17.36,No Disease,111,94,274,162,No,,12761,6,9.4,Yes,No,Keto,1580,118,281,73,Asian,
+56,Other,163,66,24.84,No Disease,175,75,219,124,No,,11452,5,7.6,No,Yes,Vegetarian,2593,105,179,143,Western,
+37,Male,193,111,29.8,No Disease,167,62,151,233,No,,5532,3,8.9,No,No,Regular,2632,70,149,123,Mediterranean,Sweet
+56,Female,152,95,41.12,Obesity,93,100,286,226,Yes,Lactose Intolerance,10576,2,7.4,Yes,No,Regular,2725,127,279,149,Western,
+36,Other,169,103,36.06,No Disease,106,115,223,171,No,,13825,5,8.3,No,No,Regular,3309,71,126,34,Western,Salty
+63,Female,193,93,24.97,Diabetes,104,75,164,155,No,,7068,0,6.2,No,No,Keto,1526,139,203,74,Asian,
+24,Other,161,87,33.56,Heart Disease,164,77,265,110,Yes,,7514,6,7.1,No,No,Vegan,2958,132,333,72,Mediterranean,Spicy
+45,Other,187,91,26.02,Diabetes,108,79,205,166,No,,3314,1,6.3,Yes,No,Vegetarian,2435,111,304,42,Western,Sweet
+27,Female,165,84,30.85,Diabetes,94,95,263,234,Yes,,12091,4,9.5,Yes,Yes,Vegetarian,1755,92,277,84,Indian,Spicy
+35,Other,174,94,31.05,No Disease,107,85,254,134,No,,3612,4,4.6,No,Yes,Keto,3201,74,162,73,Asian,
+22,Male,158,118,47.27,Heart Disease,167,100,198,108,No,,10370,0,9.1,No,No,Keto,3068,144,161,106,Indian,
+51,Other,157,92,37.32,Obesity,117,85,159,147,No,,8839,1,7.4,No,No,Regular,1931,88,179,88,Indian,
+45,Female,178,116,36.61,Diabetes,157,109,160,138,No,,10696,2,5.2,Yes,No,Regular,2966,179,173,85,Indian,
+71,Male,163,109,41.03,No Disease,103,70,150,189,Yes,,2712,3,6.7,No,No,Regular,1364,128,130,135,Mediterranean,Spicy
+18,Male,169,87,30.46,No Disease,106,72,163,164,No,,6105,0,6.9,No,No,Keto,3451,81,330,25,Indian,Salty
+74,Male,185,87,25.42,No Disease,109,116,292,118,Yes,,7802,0,9.2,No,Yes,Keto,1710,169,191,84,Mediterranean,Sweet
+79,Other,151,67,29.38,No Disease,166,110,158,73,Yes,Nut Allergy,10227,1,5.2,Yes,No,Vegetarian,2891,185,253,120,Asian,Spicy
+56,Female,162,62,23.62,Diabetes,109,64,291,244,No,,10177,4,8.5,No,Yes,Regular,3486,177,247,91,Western,Salty
+60,Female,168,88,31.18,Heart Disease,142,92,214,171,No,Gluten Intolerance,2887,1,7.6,Yes,Yes,Vegetarian,3098,196,264,110,Mediterranean,Sweet
+63,Other,173,110,36.75,No Disease,170,88,280,220,No,,6156,0,6.2,No,No,Regular,2635,55,190,138,Mediterranean,
+76,Female,166,70,25.4,Heart Disease,91,71,284,124,No,,13846,4,5.6,No,No,Vegetarian,2824,62,297,130,Mediterranean,Spicy
+60,Female,156,109,44.79,Hypertension,160,109,260,248,Yes,,9810,2,9.0,No,No,Regular,2405,167,298,48,Indian,Spicy
+78,Male,196,106,27.59,No Disease,157,117,152,241,No,,8542,0,8.1,Yes,No,Regular,3362,110,253,31,Mediterranean,
+57,Female,199,85,21.46,No Disease,92,66,231,121,No,,6463,5,7.0,Yes,No,Regular,3154,89,391,116,Mediterranean,
+47,Other,188,104,29.43,No Disease,107,86,236,220,No,,6946,6,8.8,No,No,Regular,2359,62,229,54,Indian,Salty
+35,Male,185,101,29.51,Obesity,94,115,220,83,Yes,,13486,2,5.6,Yes,No,Keto,3027,85,169,41,Indian,Salty
+45,Female,172,71,24.0,Hypertension,105,79,299,192,Yes,,2751,5,7.8,Yes,No,Regular,2368,159,159,83,Western,
+46,Other,193,105,28.19,No Disease,154,60,181,79,Yes,,5861,4,7.4,Yes,Yes,Vegan,1517,59,195,100,Mediterranean,Salty
+40,Male,196,75,19.52,Hypertension,100,109,240,78,No,,5230,0,4.0,Yes,No,Regular,3004,168,159,30,Western,Sweet
+70,Other,184,116,34.26,No Disease,141,107,179,85,No,,10575,3,8.5,No,Yes,Keto,2682,63,177,133,Western,
+50,Male,197,57,14.69,Hypertension,141,75,161,116,No,,12298,2,4.1,No,No,Regular,1395,128,339,136,Asian,
+20,Female,189,59,16.52,No Disease,128,76,210,188,No,Lactose Intolerance,2785,4,7.3,No,No,Regular,1727,68,384,28,Mediterranean,Sweet
+62,Male,186,82,23.7,No Disease,177,99,293,244,Yes,Lactose Intolerance,8189,4,9.0,No,No,Keto,2255,127,366,40,Indian,Salty
+52,Female,196,66,17.18,No Disease,175,66,213,218,No,,3584,2,6.3,No,No,Regular,2458,62,348,129,Mediterranean,Spicy
+51,Other,158,106,42.46,No Disease,166,86,252,205,No,,10687,5,8.9,No,No,Regular,1594,194,364,37,Western,Spicy
+79,Female,160,67,26.17,Diabetes,100,86,188,102,No,Gluten Intolerance,14354,3,4.8,No,No,Regular,1815,89,148,120,Indian,Salty
+64,Other,180,114,35.19,No Disease,142,104,188,99,No,,3815,3,7.2,No,No,Keto,3133,158,225,79,Indian,Spicy
+20,Male,157,64,25.96,No Disease,162,111,213,208,No,,8902,6,4.7,Yes,No,Regular,1529,60,218,115,Western,Sweet
+67,Female,192,100,27.13,No Disease,139,114,251,177,No,Nut Allergy,10849,6,4.9,Yes,No,Vegan,1521,69,337,76,Indian,Sweet
+55,Other,179,57,17.79,Diabetes,144,95,257,104,Yes,Lactose Intolerance,6044,5,8.3,No,No,Regular,3418,63,344,31,Indian,
+20,Other,189,75,21.0,Diabetes,96,67,152,242,No,,3785,1,8.9,No,No,Vegetarian,3256,111,100,116,Asian,Salty
+73,Other,162,64,24.39,No Disease,122,87,290,162,No,,11040,2,5.6,No,Yes,Keto,2277,70,292,66,Western,
+22,Male,172,107,36.17,No Disease,109,106,220,198,No,,2915,6,5.9,No,No,Vegan,3170,134,177,37,Indian,Spicy
+39,Female,183,116,34.64,Heart Disease,127,80,249,212,No,Nut Allergy,5406,6,8.2,No,No,Regular,2147,184,157,90,Mediterranean,Spicy
+73,Other,158,119,47.67,No Disease,104,73,196,242,Yes,,5134,4,7.2,No,No,Regular,3218,110,290,32,Indian,Spicy
+24,Male,178,91,28.72,Heart Disease,140,102,296,228,No,Gluten Intolerance,2429,1,8.2,No,No,Regular,1360,87,101,93,Western,
+77,Male,156,73,30.0,No Disease,95,91,222,165,No,,12656,4,7.2,No,No,Regular,2398,125,121,71,Mediterranean,Spicy
+41,Female,179,96,29.96,Hypertension,154,94,240,224,No,,5801,2,7.7,No,No,Vegan,2346,129,267,98,Asian,Salty
+69,Female,172,89,30.08,Heart Disease,150,100,157,177,No,,2037,5,4.1,Yes,No,Regular,2791,147,376,125,Indian,Salty
+61,Female,185,114,33.31,Diabetes,124,70,217,183,No,Gluten Intolerance,9140,6,8.3,Yes,No,Regular,1653,188,170,94,Western,
+75,Female,154,64,26.99,No Disease,156,101,232,123,No,,14373,6,8.6,No,No,Keto,3491,74,218,68,Indian,Spicy
+76,Female,185,72,21.04,No Disease,97,104,187,200,No,,13709,5,7.3,No,No,Regular,2116,79,236,64,Mediterranean,Spicy
+67,Male,161,92,35.49,No Disease,157,62,287,186,No,Gluten Intolerance,11186,4,8.5,No,Yes,Regular,1856,100,233,137,Indian,Sweet
+72,Female,180,98,30.25,Heart Disease,113,91,279,103,No,,8014,0,4.4,Yes,No,Keto,1594,195,101,111,Western,Salty
+72,Female,179,53,16.54,Obesity,174,84,286,229,Yes,Lactose Intolerance,4068,3,9.3,No,Yes,Keto,1856,163,194,95,Mediterranean,Sweet
+35,Other,179,104,32.46,No Disease,90,83,294,203,No,Gluten Intolerance,4908,4,4.2,Yes,No,Regular,3150,187,391,141,Asian,Spicy
+78,Other,166,87,31.57,No Disease,124,118,225,127,Yes,,4211,6,7.9,Yes,Yes,Regular,2316,141,256,112,Asian,Spicy
+63,Other,170,117,40.48,Heart Disease,164,81,254,107,No,Lactose Intolerance,3459,4,9.4,No,No,Vegetarian,2548,190,377,95,Mediterranean,Sweet
+70,Male,158,117,46.87,Obesity,167,61,278,167,Yes,,3410,5,8.2,No,No,Vegetarian,1365,136,237,133,Mediterranean,
+37,Male,198,88,22.45,Diabetes,178,107,212,160,No,Gluten Intolerance,8868,4,7.2,No,Yes,Regular,1730,137,185,76,Mediterranean,Sweet
+20,Other,155,84,34.96,Hypertension,105,80,214,243,No,,7367,5,5.1,No,No,Regular,2696,196,153,136,Mediterranean,Salty
+29,Female,191,92,25.22,Hypertension,167,96,196,184,No,,3304,3,8.8,Yes,No,Keto,2113,76,163,119,Asian,Spicy
+59,Female,166,98,35.56,Diabetes,92,99,233,235,Yes,,11123,2,9.9,No,Yes,Vegetarian,1655,149,125,120,Asian,
+28,Other,196,79,20.56,Heart Disease,115,109,289,228,No,,10883,2,4.8,No,No,Vegetarian,1489,171,255,82,Western,Spicy
+18,Male,189,84,23.52,No Disease,167,75,269,240,Yes,,2159,4,7.5,No,No,Vegetarian,1862,104,172,120,Indian,Sweet
+51,Female,175,71,23.18,No Disease,145,84,166,232,Yes,Lactose Intolerance,12151,2,8.7,Yes,No,Keto,2455,66,241,56,Asian,Sweet
+69,Female,155,58,24.14,Hypertension,110,103,259,208,No,,13984,6,4.2,No,No,Vegetarian,1783,100,375,114,Western,Spicy
+61,Other,197,54,13.91,No Disease,125,71,181,173,No,,3140,0,6.7,No,No,Regular,1929,99,195,39,Asian,Sweet
+18,Other,160,100,39.06,Diabetes,102,108,280,148,Yes,,10058,2,9.7,No,No,Regular,1762,159,387,79,Indian,Sweet
+63,Female,198,104,26.53,Hypertension,115,85,159,156,No,,3956,6,8.8,Yes,No,Regular,3200,56,306,48,Indian,Spicy
+40,Female,193,52,13.96,Diabetes,157,83,199,152,Yes,,6491,6,7.0,No,No,Vegan,2761,70,160,30,Asian,Spicy
+51,Male,188,119,33.67,Diabetes,147,106,179,93,No,,12988,3,6.8,Yes,Yes,Vegetarian,1897,169,378,74,Asian,
+63,Other,180,91,28.09,No Disease,123,102,287,229,No,,7648,0,5.3,Yes,No,Regular,1446,116,110,127,Mediterranean,Spicy
+70,Female,198,83,21.17,Heart Disease,160,83,222,174,No,,9464,4,5.3,No,No,Keto,1290,183,200,148,Western,Spicy
+68,Male,158,106,42.46,No Disease,110,90,278,246,No,,4562,3,4.9,No,No,Vegan,1399,75,207,49,Western,Sweet
+23,Male,150,64,28.44,Diabetes,153,68,209,238,Yes,Nut Allergy,6114,2,8.8,No,No,Regular,2039,177,397,106,Indian,Sweet
+53,Male,182,116,35.02,Obesity,109,106,287,160,No,Nut Allergy,5713,0,5.4,No,No,Regular,3294,68,348,122,Western,Spicy
+37,Other,158,71,28.44,No Disease,179,84,162,168,No,,4744,5,6.6,Yes,No,Keto,2749,132,141,88,Mediterranean,Spicy
+58,Female,181,92,28.08,Heart Disease,168,92,179,178,No,Lactose Intolerance,6562,3,7.8,No,No,Vegan,1846,64,181,49,Western,
+74,Other,167,118,42.31,Diabetes,168,64,246,247,No,,9671,5,5.4,No,Yes,Regular,3469,140,206,111,Asian,
+38,Male,191,77,21.11,No Disease,126,105,262,110,No,,13114,1,4.4,Yes,No,Regular,3217,170,267,95,Asian,Spicy
+50,Other,167,75,26.89,No Disease,116,96,189,86,No,,12001,5,8.0,No,No,Regular,2542,128,199,74,Western,Salty
+35,Female,160,72,28.12,Diabetes,90,103,223,120,No,Lactose Intolerance,14331,6,6.1,No,No,Vegetarian,3161,133,371,61,Asian,Sweet
+71,Other,187,58,16.59,No Disease,177,96,194,193,No,,6482,5,7.7,No,No,Regular,1200,127,183,71,Indian,Spicy
+58,Male,199,53,13.38,Diabetes,168,65,286,132,No,,9713,6,5.2,No,Yes,Vegetarian,3430,70,170,44,Mediterranean,Salty
+30,Other,166,72,26.13,No Disease,131,104,238,116,No,,3289,5,8.2,No,No,Regular,1999,177,152,134,Indian,Sweet
+46,Other,159,108,42.72,Hypertension,168,73,214,84,No,Gluten Intolerance,7866,6,9.6,No,Yes,Keto,2458,59,370,141,Western,Salty
+24,Female,193,91,24.43,Hypertension,91,108,151,99,Yes,Nut Allergy,8149,5,4.5,No,No,Vegetarian,1715,109,351,116,Asian,
+56,Male,186,79,22.84,No Disease,165,100,155,193,No,Lactose Intolerance,14397,1,8.5,No,Yes,Regular,2497,176,110,78,Asian,Salty
+63,Other,153,104,44.43,No Disease,172,102,240,202,Yes,,13779,1,6.8,No,No,Vegetarian,1436,182,311,21,Indian,
+40,Other,179,55,17.17,No Disease,175,111,176,154,Yes,Lactose Intolerance,2042,0,6.0,Yes,Yes,Regular,1874,172,342,149,Indian,
+32,Other,197,97,24.99,Heart Disease,115,82,180,188,No,,10002,5,7.4,Yes,No,Keto,1699,69,289,48,Indian,Salty
+69,Other,192,69,18.72,Obesity,170,113,223,173,Yes,Gluten Intolerance,8547,5,9.2,No,No,Vegan,2667,193,253,77,Asian,Sweet
+18,Female,186,91,26.3,Hypertension,97,113,189,196,No,,2926,5,4.1,Yes,Yes,Keto,2871,126,399,146,Western,
+19,Other,197,84,21.64,No Disease,139,74,224,247,No,,4939,1,8.2,No,Yes,Regular,2878,152,187,134,Indian,
+23,Other,159,111,43.91,Heart Disease,111,64,257,85,No,,13354,1,5.0,No,No,Regular,2606,151,125,137,Indian,
+57,Female,188,57,16.13,No Disease,101,77,255,179,Yes,,2846,5,9.9,Yes,No,Keto,1682,120,228,120,Western,
+26,Other,193,94,25.24,No Disease,121,114,276,219,No,,5481,0,5.5,Yes,No,Keto,2556,69,206,60,Asian,Salty
+56,Female,185,62,18.12,No Disease,126,77,177,218,No,Nut Allergy,13562,1,7.4,Yes,No,Vegetarian,2330,145,338,31,Western,Spicy
+55,Female,179,55,17.17,Diabetes,124,94,152,76,No,Gluten Intolerance,2539,0,6.3,No,No,Regular,1604,195,347,79,Asian,Sweet
+70,Female,176,73,23.57,Diabetes,171,75,234,198,No,,10196,5,9.9,No,No,Regular,1461,147,248,104,Western,Salty
+30,Female,180,114,35.19,No Disease,135,80,206,163,Yes,,3264,1,5.7,Yes,Yes,Regular,2384,179,214,70,Indian,Spicy
+77,Male,172,67,22.65,No Disease,122,80,219,152,No,,10123,3,6.9,No,No,Keto,2641,194,102,27,Indian,Spicy
+26,Other,178,112,35.35,Heart Disease,162,112,175,184,No,,12368,3,6.8,Yes,No,Regular,2270,185,363,113,Mediterranean,
+69,Other,174,74,24.44,No Disease,100,116,173,242,Yes,,5706,4,9.0,No,No,Keto,2388,128,305,53,Asian,Sweet
+28,Other,182,103,31.1,No Disease,102,110,253,243,Yes,,4688,1,7.5,No,No,Regular,1323,120,237,141,Asian,Salty
+23,Female,197,89,22.93,Heart Disease,126,70,201,221,Yes,,3337,4,5.0,Yes,No,Keto,2440,193,139,70,Western,Salty
+25,Other,192,89,24.14,Obesity,152,116,299,127,No,Lactose Intolerance,8933,5,6.9,No,No,Vegan,1748,142,397,94,Western,Spicy
+30,Male,165,62,22.77,Diabetes,95,82,295,149,Yes,Lactose Intolerance,14036,3,9.5,No,No,Keto,2394,114,237,81,Indian,Sweet
+25,Male,162,119,45.34,No Disease,154,104,224,164,No,,7190,6,9.3,Yes,No,Regular,2440,117,180,85,Indian,Sweet
+29,Female,176,95,30.67,Diabetes,100,75,214,148,No,Gluten Intolerance,12689,6,9.3,Yes,Yes,Regular,1632,166,109,135,Mediterranean,Sweet
+48,Other,193,79,21.21,No Disease,162,83,196,182,Yes,,13709,5,6.5,Yes,No,Vegetarian,2632,59,119,85,Western,Salty
+29,Other,167,61,21.87,No Disease,118,94,177,90,No,,6429,6,5.6,Yes,Yes,Vegetarian,2354,182,239,66,Mediterranean,Salty
+19,Male,152,71,30.73,Heart Disease,161,67,286,182,Yes,,2412,1,5.5,No,Yes,Vegan,3226,63,293,148,Asian,Salty
+32,Male,180,94,29.01,Diabetes,117,93,165,151,Yes,,3648,0,8.2,Yes,No,Regular,1805,191,328,78,Mediterranean,
+62,Other,152,74,32.03,Hypertension,152,103,161,126,No,,9542,5,7.2,No,Yes,Keto,2391,55,175,110,Western,Sweet
+52,Other,173,68,22.72,Hypertension,135,102,194,133,No,,3418,5,4.6,No,No,Regular,1373,117,362,109,Mediterranean,
+74,Male,150,53,23.56,Obesity,177,73,234,181,No,,6489,3,5.3,Yes,No,Vegan,3137,177,265,94,Western,Sweet
+56,Female,156,64,26.3,Obesity,131,94,244,75,No,,7520,1,8.1,No,Yes,Keto,3004,163,152,123,Indian,
+19,Female,176,111,35.83,Hypertension,118,93,184,223,No,,6012,6,5.2,No,No,Keto,3362,164,303,85,Indian,Salty
+21,Male,191,92,25.22,Diabetes,135,71,205,218,Yes,Lactose Intolerance,12954,5,9.8,No,No,Keto,2791,53,104,134,Asian,Salty
+62,Male,195,112,29.45,Heart Disease,112,96,269,149,Yes,Gluten Intolerance,2300,3,8.5,No,No,Regular,3010,197,376,30,Indian,
+38,Female,171,113,38.64,No Disease,97,91,176,74,Yes,Gluten Intolerance,14164,3,9.0,No,No,Vegetarian,3048,132,220,66,Indian,
+47,Other,161,85,32.79,Obesity,138,74,269,236,Yes,,8148,0,9.7,Yes,No,Regular,2151,166,395,102,Mediterranean,Spicy
+29,Other,199,80,20.2,No Disease,94,92,225,91,No,,10947,3,9.7,Yes,Yes,Regular,3177,149,278,117,Indian,Spicy
+51,Male,151,64,28.07,Diabetes,179,108,212,149,No,,5648,4,6.9,No,No,Regular,2027,62,341,71,Mediterranean,Spicy
+35,Female,199,53,13.38,No Disease,144,84,239,77,No,Nut Allergy,6371,3,8.6,No,Yes,Regular,2680,186,262,127,Indian,Salty
+23,Female,189,78,21.84,Heart Disease,99,100,252,157,No,,9941,4,7.8,Yes,No,Keto,3030,85,316,71,Western,Spicy
+37,Female,177,66,21.07,Hypertension,175,105,281,244,Yes,Lactose Intolerance,4364,6,4.5,No,No,Regular,1753,151,142,102,Indian,
+38,Other,154,97,40.9,Diabetes,160,72,274,78,No,,2851,2,5.2,No,Yes,Regular,2573,128,121,29,Mediterranean,Sweet
+60,Male,161,53,20.45,Hypertension,140,91,188,95,No,,3866,0,8.1,No,No,Vegan,3095,172,393,95,Mediterranean,
+70,Female,153,62,26.49,No Disease,90,110,260,213,No,,6930,1,8.7,No,No,Vegetarian,2011,119,390,111,Indian,Spicy
+76,Male,171,69,23.6,Diabetes,150,89,238,189,Yes,,3299,1,8.3,No,No,Keto,3192,141,118,37,Western,Spicy
+57,Male,178,81,25.56,No Disease,115,96,242,138,No,,7559,6,6.6,Yes,No,Regular,1553,70,235,146,Mediterranean,Sweet
+63,Other,196,114,29.68,Hypertension,90,110,162,220,No,Gluten Intolerance,6353,3,7.4,No,No,Regular,3425,86,124,109,Mediterranean,Spicy
+60,Other,191,66,18.09,Obesity,121,73,299,161,No,Gluten Intolerance,11339,6,5.6,No,No,Regular,2894,100,142,133,Mediterranean,Spicy
+41,Male,157,85,34.48,No Disease,138,113,210,240,No,,13116,3,8.1,No,Yes,Regular,1482,136,235,109,Western,Salty
+30,Male,156,115,47.26,Heart Disease,131,105,154,154,No,,13523,1,9.6,No,No,Regular,2645,100,213,70,Indian,Spicy
+32,Male,191,74,20.28,No Disease,171,82,231,183,No,,11928,3,10.0,No,Yes,Regular,2121,103,308,52,Western,
+68,Male,161,53,20.45,Obesity,101,117,241,85,No,,2085,3,6.3,No,Yes,Regular,3304,189,165,28,Asian,Salty
+58,Male,171,105,35.91,Diabetes,158,93,296,176,No,Gluten Intolerance,14997,3,9.5,No,Yes,Vegan,1508,124,207,132,Asian,Sweet
+58,Other,180,105,32.41,No Disease,168,91,275,73,No,,2099,6,5.1,No,No,Regular,1744,193,157,94,Asian,Sweet
+38,Male,171,67,22.91,Obesity,173,63,286,105,No,,2518,0,7.7,Yes,No,Vegetarian,1825,135,270,33,Western,
+61,Other,174,112,36.99,Diabetes,158,117,279,236,No,Nut Allergy,8934,0,8.9,No,No,Regular,2008,143,103,83,Indian,Salty
+77,Male,163,72,27.1,No Disease,112,65,266,228,No,,9763,3,4.9,Yes,No,Vegan,3040,124,334,110,Western,Spicy
+31,Female,171,104,35.57,No Disease,148,97,285,219,Yes,,5277,3,7.0,Yes,No,Regular,1438,190,370,116,Asian,Sweet
+25,Male,176,117,37.77,Hypertension,139,98,224,99,No,,11625,6,5.1,No,No,Regular,1607,87,265,142,Indian,Salty
+57,Male,160,71,27.73,No Disease,106,112,243,73,No,Lactose Intolerance,5361,2,9.4,No,Yes,Regular,1533,186,167,23,Mediterranean,
+38,Female,167,100,35.86,No Disease,112,79,154,188,No,Gluten Intolerance,14858,2,7.0,No,No,Vegetarian,1585,199,114,41,Asian,Salty
+65,Male,186,63,18.21,Hypertension,149,77,174,193,No,,8304,1,6.1,No,No,Vegetarian,2303,105,366,23,Asian,Sweet
+67,Female,170,86,29.76,Diabetes,95,77,207,122,No,Lactose Intolerance,7851,5,4.5,No,No,Vegetarian,1813,94,384,90,Indian,Spicy
+63,Male,158,88,35.25,Diabetes,156,85,204,99,No,,3775,5,5.0,No,No,Keto,1805,182,114,27,Asian,Spicy
+24,Female,189,68,19.04,Heart Disease,162,95,174,248,Yes,,5102,5,9.4,No,No,Regular,1779,178,308,56,Western,Salty
+49,Female,186,82,23.7,Obesity,176,76,291,222,Yes,,5174,6,4.1,No,No,Vegan,1482,112,311,45,Mediterranean,Sweet
+55,Other,172,75,25.35,No Disease,150,103,290,213,Yes,,11235,0,7.3,Yes,No,Vegan,3347,110,229,84,Mediterranean,Spicy
+62,Other,163,78,29.36,Hypertension,97,114,179,235,No,,8958,5,6.3,No,No,Regular,1704,133,117,124,Indian,Spicy
+78,Female,166,59,21.41,Hypertension,143,91,186,140,Yes,,11171,3,8.0,No,No,Regular,3093,135,280,96,Mediterranean,Spicy
+76,Female,192,70,18.99,No Disease,162,117,160,184,No,,13630,0,9.2,Yes,No,Regular,3167,69,109,57,Indian,Sweet
+45,Other,171,91,31.12,Hypertension,176,104,196,150,Yes,Lactose Intolerance,13450,2,6.3,No,No,Regular,2085,151,236,131,Indian,Sweet
+64,Male,190,113,31.3,No Disease,117,106,182,93,No,,6032,2,4.2,No,No,Regular,3423,89,376,110,Asian,Sweet
+53,Other,199,56,14.14,No Disease,137,102,187,246,No,,2022,1,9.8,No,No,Regular,1290,131,257,31,Western,Salty
+42,Female,154,55,23.19,No Disease,107,89,227,168,No,,3148,1,9.4,No,No,Keto,3164,176,130,86,Asian,Spicy
+18,Male,175,53,17.31,Diabetes,167,100,240,135,Yes,,4258,6,7.2,No,No,Vegan,3064,51,147,47,Western,Sweet
+75,Other,151,86,37.72,Heart Disease,93,82,251,195,No,,9899,6,6.2,No,No,Keto,2426,177,143,64,Mediterranean,
+54,Other,189,88,24.64,Heart Disease,137,83,256,159,Yes,,12441,5,8.3,No,No,Regular,2372,78,332,96,Asian,Spicy
+48,Male,161,53,20.45,Hypertension,91,68,281,112,No,,3923,5,4.6,No,No,Vegetarian,1330,82,100,45,Asian,Spicy
+21,Other,164,111,41.27,No Disease,125,77,246,161,No,Nut Allergy,4029,3,6.6,No,No,Regular,1218,194,138,42,Indian,Spicy
+37,Male,179,74,23.1,Diabetes,145,101,213,180,No,,9672,2,6.7,Yes,No,Regular,2805,143,289,58,Western,Salty
+28,Other,180,59,18.21,Hypertension,102,69,241,190,No,,5234,5,5.4,No,No,Regular,3212,106,118,62,Indian,Salty
+77,Other,192,66,17.9,Heart Disease,173,81,260,218,No,Nut Allergy,5934,5,8.2,No,No,Keto,1271,82,384,113,Indian,
+46,Other,151,95,41.66,No Disease,172,99,204,196,No,Nut Allergy,11412,6,7.9,No,No,Regular,3290,181,114,90,Asian,Sweet
+69,Female,171,66,22.57,No Disease,125,81,202,176,No,,11951,4,7.9,No,No,Regular,2634,93,364,50,Asian,Sweet
+23,Other,199,109,27.52,No Disease,176,95,173,220,Yes,,8268,0,6.7,Yes,No,Vegetarian,2686,129,347,34,Indian,Sweet
+43,Male,198,77,19.64,No Disease,112,93,193,203,No,,3049,4,4.8,No,No,Regular,2994,86,349,40,Asian,Salty
+76,Female,176,76,24.54,Hypertension,166,99,222,141,No,,11199,5,7.7,No,No,Regular,1805,64,217,126,Asian,Salty
+65,Male,156,82,33.69,Diabetes,93,105,223,129,No,Nut Allergy,6387,3,6.5,Yes,Yes,Regular,2732,148,390,127,Asian,Salty
+23,Other,151,116,50.87,Diabetes,99,65,242,87,Yes,,13270,3,9.6,No,Yes,Vegetarian,1585,106,222,142,Western,Spicy
+78,Female,155,103,42.87,Hypertension,99,109,264,106,No,,6618,2,6.4,Yes,No,Vegetarian,1392,112,122,94,Asian,Sweet
+32,Female,151,93,40.79,Diabetes,173,84,155,147,No,Lactose Intolerance,12520,2,8.7,No,Yes,Vegetarian,3302,51,272,56,Mediterranean,Sweet
+72,Other,188,108,30.56,No Disease,176,112,162,131,Yes,,11775,5,9.1,No,No,Regular,2393,88,274,67,Asian,Salty
+53,Other,152,97,41.98,Diabetes,141,69,164,102,No,,6766,2,6.6,No,No,Regular,2078,77,346,102,Asian,
+75,Female,193,107,28.73,Diabetes,99,99,151,97,No,,10409,6,6.1,No,No,Keto,2705,186,326,102,Indian,Sweet
+40,Other,188,54,15.28,Heart Disease,90,65,222,249,No,Lactose Intolerance,4667,4,6.7,No,Yes,Vegetarian,2777,162,266,79,Indian,Salty
+38,Female,174,96,31.71,Hypertension,92,83,234,218,No,,5639,2,5.0,No,Yes,Regular,1412,75,298,133,Western,
+38,Female,157,73,29.62,No Disease,120,73,174,226,Yes,Lactose Intolerance,7678,2,5.6,No,No,Regular,2479,192,251,97,Western,
+43,Other,157,98,39.76,Hypertension,134,70,162,171,No,Lactose Intolerance,7891,0,6.4,Yes,No,Vegetarian,1875,158,360,67,Asian,Salty
+32,Other,161,75,28.93,No Disease,120,61,236,111,No,,9645,6,6.2,No,No,Regular,1377,180,238,72,Indian,Salty
+19,Male,192,109,29.57,Hypertension,109,69,293,142,No,Lactose Intolerance,8017,5,7.8,Yes,No,Regular,1422,66,168,122,Western,Salty
+37,Other,167,62,22.23,Diabetes,166,91,256,221,No,,6002,4,8.1,Yes,Yes,Regular,2804,117,149,80,Western,Spicy
+48,Female,188,85,24.05,Diabetes,179,98,214,174,No,,12615,0,4.6,No,No,Regular,1569,129,279,99,Western,Salty
+56,Male,165,104,38.2,Hypertension,110,77,160,127,No,,10470,4,7.4,No,No,Keto,3273,170,234,123,Indian,Salty
+58,Male,183,79,23.59,Heart Disease,114,92,290,212,No,,6919,3,9.5,No,No,Regular,3081,175,324,33,Indian,Sweet
+45,Female,182,114,34.42,Diabetes,98,89,220,196,No,,4292,5,7.7,No,No,Regular,2595,53,376,93,Western,Salty
+55,Female,175,113,36.9,Hypertension,107,77,217,164,No,,10238,3,9.4,Yes,No,Vegetarian,3057,98,282,127,Indian,Sweet
+39,Female,192,50,13.56,Obesity,112,103,246,70,Yes,,13711,4,5.3,No,No,Regular,1347,153,314,148,Asian,
+23,Other,164,89,33.09,Obesity,177,105,190,221,No,,7035,2,4.5,No,No,Regular,3357,89,334,24,Mediterranean,Salty
+35,Female,180,109,33.64,No Disease,171,65,289,172,Yes,,12858,3,6.1,No,No,Vegan,1920,150,276,140,Asian,Spicy
+79,Other,191,67,18.37,No Disease,150,104,242,216,No,,7733,2,4.7,No,Yes,Regular,2861,121,360,36,Mediterranean,Salty
+27,Male,178,52,16.41,Diabetes,170,68,282,162,No,,13221,6,5.8,No,No,Regular,2686,55,239,103,Western,Salty
+52,Female,172,55,18.59,Heart Disease,144,116,284,205,No,,6298,0,6.7,Yes,Yes,Keto,2373,108,343,126,Indian,
+75,Other,183,80,23.89,Heart Disease,162,95,249,86,No,Lactose Intolerance,12061,2,5.2,No,No,Regular,2397,142,230,64,Asian,Sweet
+72,Female,186,58,16.76,Heart Disease,164,106,267,221,No,,3717,4,4.0,No,No,Regular,2825,68,212,33,Indian,Sweet
+76,Male,166,105,38.1,No Disease,108,67,277,217,Yes,Lactose Intolerance,10023,6,9.4,No,No,Regular,2533,167,341,74,Western,
+62,Female,157,103,41.79,Diabetes,93,71,262,178,No,,9764,6,5.0,Yes,No,Keto,1727,105,154,131,Mediterranean,Salty
+24,Female,159,93,36.79,Hypertension,126,62,184,121,No,Gluten Intolerance,8953,2,9.0,No,No,Regular,2125,78,262,26,Western,Sweet
+20,Male,154,114,48.07,No Disease,126,90,169,223,No,Lactose Intolerance,9446,2,8.6,No,No,Vegetarian,1650,134,381,142,Indian,Spicy
+48,Male,159,88,34.81,Obesity,140,84,282,219,No,Lactose Intolerance,3735,5,4.8,No,No,Keto,2250,80,309,25,Western,Sweet
+53,Female,153,119,50.84,No Disease,128,64,229,247,Yes,,12309,6,9.2,Yes,No,Vegetarian,1695,134,143,90,Asian,Spicy
+35,Other,178,95,29.98,Diabetes,125,98,297,173,No,,3716,2,9.4,Yes,Yes,Vegetarian,1503,129,380,84,Indian,Spicy
+42,Other,173,96,32.08,Hypertension,160,68,199,76,No,,8742,1,7.9,No,Yes,Regular,1280,164,202,118,Indian,Spicy
+64,Female,192,99,26.86,No Disease,110,101,172,71,No,,3909,1,6.2,No,No,Regular,1968,75,125,70,Indian,Salty
+30,Other,167,81,29.04,Diabetes,166,68,226,167,Yes,Nut Allergy,7612,6,5.9,No,No,Vegan,1502,80,261,129,Western,
+79,Male,161,62,23.92,No Disease,125,60,193,120,No,,8446,5,7.1,No,No,Regular,3429,72,268,118,Asian,Sweet
+26,Other,180,95,29.32,No Disease,179,74,217,126,Yes,,4445,1,10.0,No,No,Regular,1469,188,361,108,Western,Salty
+52,Female,192,57,15.46,Hypertension,105,95,297,143,No,,12816,4,5.2,No,Yes,Regular,1269,121,203,48,Mediterranean,Spicy
+79,Male,176,54,17.43,No Disease,160,97,226,218,No,,10140,3,7.0,No,No,Keto,2996,114,363,114,Indian,
+44,Other,168,50,17.72,Diabetes,174,70,187,102,Yes,,9844,0,6.8,No,No,Keto,2557,151,338,78,Indian,
+37,Other,197,102,26.28,Heart Disease,135,97,210,146,Yes,,11958,1,9.1,Yes,No,Vegetarian,1730,186,154,27,Indian,Salty
+19,Female,159,117,46.28,Heart Disease,104,110,154,105,Yes,Nut Allergy,3291,6,7.1,No,No,Keto,1271,95,380,139,Indian,Sweet
+55,Female,161,64,24.69,Diabetes,172,63,165,101,No,,13845,1,9.4,No,No,Keto,1462,61,335,50,Asian,Sweet
+55,Male,188,68,19.24,Heart Disease,172,98,237,235,No,,9575,0,8.7,Yes,No,Regular,1955,108,199,131,Asian,
+69,Other,189,76,21.28,Obesity,142,77,179,212,Yes,,11543,1,8.3,No,No,Regular,1949,58,221,139,Western,Spicy
+69,Male,152,118,51.07,Heart Disease,146,97,192,223,No,,7158,2,8.2,No,No,Vegetarian,3231,199,117,86,Asian,Spicy
+39,Female,179,97,30.27,Obesity,143,108,270,119,No,Nut Allergy,3672,4,4.4,No,No,Keto,1945,74,225,119,Western,Spicy
+43,Other,179,117,36.52,Heart Disease,104,68,224,211,No,Nut Allergy,9784,2,9.4,No,Yes,Vegan,2442,94,118,125,Mediterranean,Spicy
+59,Female,181,100,30.52,No Disease,149,67,283,152,Yes,,7594,3,8.8,No,No,Vegetarian,2627,197,331,44,Mediterranean,Spicy
+43,Female,150,70,31.11,No Disease,172,116,252,168,No,,8049,6,4.1,No,No,Vegetarian,1203,158,302,106,Western,Salty
+72,Female,194,106,28.16,No Disease,137,100,227,183,No,Gluten Intolerance,5595,0,4.3,Yes,No,Regular,2294,154,366,109,Western,
+58,Other,192,55,14.92,No Disease,145,103,175,151,No,,4871,0,4.7,Yes,No,Keto,2870,61,166,107,Western,
+26,Male,170,57,19.72,No Disease,107,105,231,81,No,,2591,6,7.5,No,No,Regular,1992,63,358,90,Western,Salty
+22,Male,188,107,30.27,No Disease,105,72,266,202,No,,2847,2,6.2,No,No,Regular,2791,185,293,49,Mediterranean,
+66,Male,186,66,19.08,No Disease,104,78,174,132,Yes,,3941,4,5.1,No,No,Vegetarian,2232,115,326,148,Mediterranean,
+44,Female,183,110,32.85,Hypertension,167,109,233,246,Yes,,13799,0,7.2,Yes,No,Regular,2618,133,158,76,Mediterranean,Sweet
+76,Male,170,93,32.18,No Disease,112,101,185,123,No,Gluten Intolerance,10816,5,5.8,No,No,Vegan,2047,60,126,38,Mediterranean,Spicy
+77,Other,162,105,40.01,No Disease,174,68,269,206,No,,3911,5,4.6,No,No,Vegetarian,1254,93,265,73,Asian,Salty
+25,Male,163,61,22.96,Heart Disease,91,69,298,182,Yes,,10325,1,7.4,No,No,Vegetarian,2272,163,137,114,Western,Sweet
+79,Male,181,118,36.02,No Disease,129,82,242,75,No,,13901,2,7.1,Yes,No,Regular,2247,117,161,29,Indian,
+43,Other,182,82,24.76,Heart Disease,163,91,155,132,No,,2313,6,4.8,Yes,No,Vegan,1272,170,369,142,Mediterranean,
+41,Other,183,96,28.67,Diabetes,119,75,203,113,No,Lactose Intolerance,6811,0,7.2,Yes,No,Regular,1274,131,140,35,Indian,Salty
+56,Female,176,74,23.89,No Disease,153,74,252,106,No,,4925,5,7.1,No,No,Vegetarian,2635,167,173,54,Mediterranean,
+39,Other,182,57,17.21,No Disease,90,110,297,135,No,,2552,4,4.8,Yes,No,Vegetarian,2322,60,395,136,Western,Spicy
+58,Male,198,69,17.6,Diabetes,175,62,261,200,Yes,,10808,3,4.9,No,No,Regular,2135,121,168,140,Western,Sweet
+46,Other,163,70,26.35,Hypertension,128,67,158,161,No,Lactose Intolerance,11298,1,5.2,No,No,Vegetarian,3399,155,373,121,Western,Sweet
+41,Other,156,87,35.75,Obesity,158,103,260,175,No,,11628,1,7.8,Yes,No,Vegan,3036,89,102,64,Western,Salty
+22,Male,164,86,31.98,Hypertension,97,101,274,82,Yes,,4650,3,6.6,No,No,Regular,2261,77,110,93,Mediterranean,Salty
+51,Male,162,59,22.48,Diabetes,165,103,177,194,No,Lactose Intolerance,6076,0,7.9,No,No,Regular,2104,178,232,52,Indian,Salty
+39,Male,197,80,20.61,Hypertension,146,118,296,106,No,Gluten Intolerance,10236,1,6.2,No,No,Regular,2818,170,119,47,Mediterranean,
+25,Other,177,77,24.58,Diabetes,113,88,254,209,Yes,,14619,1,5.9,No,No,Regular,2939,180,114,133,Mediterranean,Salty
+62,Female,151,73,32.02,Hypertension,174,82,264,246,Yes,Gluten Intolerance,11296,4,8.1,No,Yes,Keto,2807,185,378,125,Asian,
+51,Male,184,86,25.4,Heart Disease,111,86,294,215,Yes,Gluten Intolerance,14852,1,5.7,No,Yes,Regular,1550,123,183,29,Asian,Spicy
+40,Other,196,54,14.06,No Disease,123,81,289,113,No,,3851,1,6.1,Yes,No,Vegetarian,2605,84,262,55,Western,
+64,Male,156,64,26.3,Hypertension,165,113,271,246,No,,7380,3,6.6,No,No,Regular,1738,109,378,147,Indian,Sweet
+21,Male,157,95,38.54,Heart Disease,112,104,177,125,No,,13955,6,7.3,No,No,Keto,3132,82,125,76,Indian,Spicy
+24,Female,195,95,24.98,Hypertension,175,80,178,155,Yes,Nut Allergy,14581,5,9.6,Yes,No,Regular,1323,72,161,66,Indian,Salty
+33,Male,175,103,33.63,Diabetes,155,83,178,224,No,,12769,5,6.3,Yes,No,Regular,3120,85,275,50,Western,
+70,Other,150,63,28.0,Diabetes,166,90,273,79,No,Lactose Intolerance,10867,1,5.2,No,Yes,Regular,2674,95,202,77,Indian,
+41,Male,173,96,32.08,No Disease,111,66,237,231,No,,7010,6,4.2,No,No,Vegetarian,1306,155,333,114,Indian,Spicy
+77,Male,168,99,35.08,Obesity,100,71,198,208,No,,4873,1,4.3,No,No,Regular,2491,164,278,72,Western,Spicy
+68,Female,180,78,24.07,Heart Disease,114,106,195,96,Yes,,4174,5,7.0,Yes,No,Vegetarian,3033,126,365,81,Mediterranean,Sweet
+74,Other,190,64,17.73,No Disease,139,89,199,198,Yes,Gluten Intolerance,12532,4,7.2,Yes,No,Vegetarian,2098,193,149,145,Indian,Sweet
+31,Female,189,75,21.0,Heart Disease,146,77,199,183,Yes,Gluten Intolerance,13157,5,5.5,No,No,Vegan,1358,154,198,128,Western,Sweet
+55,Female,187,63,18.02,Heart Disease,121,72,219,191,No,,12500,2,4.3,Yes,No,Regular,2663,64,268,84,Mediterranean,Spicy
+22,Female,178,106,33.46,Diabetes,115,95,263,77,No,,5002,0,8.1,Yes,No,Regular,2105,79,290,24,Mediterranean,Sweet
+49,Male,199,105,26.51,Hypertension,106,78,211,166,No,,4645,4,4.7,Yes,No,Regular,2274,61,163,65,Mediterranean,
+55,Female,197,60,15.46,Diabetes,147,90,191,194,No,Lactose Intolerance,6234,1,5.9,Yes,No,Regular,3237,128,169,23,Mediterranean,Sweet
+61,Female,164,63,23.42,No Disease,168,67,278,190,No,Nut Allergy,7709,4,6.5,Yes,Yes,Vegetarian,3071,192,255,112,Mediterranean,
+53,Other,186,110,31.8,Diabetes,133,90,296,244,No,,5599,6,6.6,Yes,Yes,Vegetarian,2708,93,384,80,Mediterranean,
+78,Other,182,115,34.72,Diabetes,143,88,150,180,No,,7420,4,4.6,No,No,Vegetarian,2692,151,205,116,Western,Sweet
+50,Other,173,98,32.74,Obesity,114,63,159,137,Yes,,4641,1,6.6,Yes,Yes,Vegan,2364,132,394,132,Indian,Spicy
+21,Other,182,98,29.59,Hypertension,169,91,151,80,No,,9814,1,7.7,No,Yes,Vegetarian,2039,170,160,97,Asian,Spicy
+73,Male,171,72,24.62,Obesity,174,99,194,192,No,,11384,2,5.8,No,Yes,Vegetarian,3227,117,272,108,Indian,Spicy
+46,Other,169,77,26.96,Heart Disease,161,81,250,228,Yes,,3004,4,6.2,Yes,Yes,Regular,3254,103,220,89,Indian,Spicy
+67,Male,155,86,35.8,Obesity,176,116,156,240,No,,6904,4,8.0,Yes,No,Regular,2154,117,223,71,Western,
+72,Other,163,82,30.86,No Disease,154,76,173,173,No,,4278,2,8.5,Yes,No,Vegan,2738,109,265,45,Western,Sweet
+75,Female,182,89,26.87,Heart Disease,119,86,230,216,Yes,,9577,6,6.8,Yes,No,Keto,2678,97,179,88,Western,
+19,Male,196,79,20.56,No Disease,156,89,185,152,Yes,Lactose Intolerance,7587,4,5.9,No,No,Regular,1500,191,358,103,Asian,Spicy
+71,Male,193,112,30.07,No Disease,127,80,284,125,No,,3053,0,5.5,Yes,No,Keto,2957,114,177,122,Western,Spicy
+28,Other,151,56,24.56,Heart Disease,116,65,153,203,No,,10758,3,6.8,No,Yes,Keto,1970,80,265,79,Indian,Salty
+55,Male,160,94,36.72,No Disease,152,82,218,142,No,,8937,1,8.0,No,No,Vegetarian,2263,189,223,36,Western,
+43,Female,158,97,38.86,No Disease,121,77,254,108,No,,11203,2,6.0,No,Yes,Regular,3130,130,370,88,Western,Sweet
+22,Male,184,99,29.24,Diabetes,101,102,190,180,No,Nut Allergy,7513,4,7.3,No,No,Vegetarian,1715,106,242,48,Asian,Sweet
+25,Female,199,98,24.75,Heart Disease,164,71,159,246,Yes,Nut Allergy,2342,5,9.8,No,Yes,Regular,2220,146,138,127,Western,Sweet
+68,Male,180,118,36.42,Heart Disease,171,68,222,105,Yes,,10431,1,4.1,Yes,No,Regular,2285,124,316,72,Mediterranean,Sweet
+24,Female,172,71,24.0,No Disease,112,92,287,87,Yes,,10119,5,4.8,Yes,Yes,Vegan,2160,197,371,103,Indian,Sweet
+53,Male,155,78,32.47,No Disease,128,61,186,227,Yes,,14103,0,5.8,No,No,Regular,2657,82,169,28,Western,
+30,Other,168,60,21.26,No Disease,145,98,285,95,No,,13441,3,8.5,Yes,No,Keto,2965,52,258,34,Asian,Salty
+33,Male,168,105,37.2,Obesity,147,65,205,127,No,Gluten Intolerance,2641,3,9.2,No,No,Keto,1852,58,397,66,Mediterranean,Sweet
+21,Female,180,58,17.9,Heart Disease,126,77,209,106,No,,10954,6,6.7,Yes,Yes,Vegetarian,2255,88,320,37,Western,Spicy
+79,Female,165,97,35.63,Obesity,154,76,270,210,No,,3787,1,9.8,Yes,Yes,Regular,1364,177,375,95,Mediterranean,
+65,Female,197,60,15.46,Heart Disease,94,84,277,100,Yes,,13859,6,5.7,No,No,Vegan,2110,66,114,21,Mediterranean,Salty
+44,Male,191,110,30.15,Hypertension,158,67,252,199,No,,2197,0,6.1,No,No,Keto,1409,159,158,136,Indian,Salty
+33,Female,191,108,29.6,No Disease,130,84,186,229,Yes,,11115,2,4.1,No,No,Keto,3341,175,223,79,Western,Sweet
+21,Female,159,71,28.08,No Disease,104,96,193,238,Yes,,13224,3,8.0,No,No,Regular,1480,169,108,38,Mediterranean,
+67,Female,159,83,32.83,No Disease,90,88,207,193,No,,4854,0,8.2,No,No,Regular,2679,159,250,63,Mediterranean,Salty
+72,Female,170,78,26.99,Obesity,112,60,213,159,No,Nut Allergy,9542,2,9.2,No,No,Keto,3180,57,179,81,Indian,Salty
+33,Female,182,52,15.7,Diabetes,102,99,263,245,No,,12388,6,7.5,Yes,No,Keto,2885,70,266,134,Indian,
+70,Male,157,54,21.91,Diabetes,178,67,276,187,No,,14612,2,4.4,No,Yes,Regular,1436,86,135,145,Western,Salty
+29,Female,178,76,23.99,Hypertension,158,77,214,218,No,,10792,5,7.9,No,No,Regular,3366,197,113,144,Indian,
+22,Other,159,111,43.91,Heart Disease,105,102,196,79,No,,14819,2,9.8,No,Yes,Vegan,1569,184,371,139,Asian,
+22,Other,164,119,44.24,Obesity,122,100,166,183,No,Gluten Intolerance,4002,1,8.1,Yes,No,Regular,1484,64,366,117,Mediterranean,Spicy
+70,Female,157,73,29.62,Hypertension,167,85,233,152,No,,6164,4,5.3,Yes,No,Vegetarian,2406,70,350,89,Asian,
+19,Female,156,82,33.69,Heart Disease,116,98,233,180,No,,6920,6,5.6,No,No,Regular,2118,69,248,109,Asian,Spicy
+68,Other,160,73,28.52,No Disease,135,70,195,153,No,,8030,3,5.8,No,Yes,Regular,3023,184,369,31,Western,Spicy
+20,Other,182,99,29.89,No Disease,172,71,167,238,No,,10227,2,6.4,Yes,No,Keto,2144,195,366,44,Asian,Salty
+51,Male,176,106,34.22,Heart Disease,101,75,255,103,No,,4385,4,6.4,No,No,Keto,2519,191,205,124,Asian,Salty
+28,Other,172,99,33.46,Heart Disease,145,61,214,209,Yes,,6457,5,8.4,No,No,Vegan,3275,60,152,133,Indian,Salty
+67,Female,160,70,27.34,Heart Disease,120,108,281,102,No,,11473,5,7.9,Yes,Yes,Keto,2599,135,305,39,Western,Sweet
+21,Male,157,60,24.34,No Disease,115,76,201,175,No,,8892,1,5.1,No,No,Keto,1970,142,375,111,Asian,Salty
+36,Male,160,52,20.31,No Disease,104,112,169,189,Yes,Lactose Intolerance,5575,4,7.3,Yes,No,Vegan,2274,88,253,21,Mediterranean,
+77,Female,164,111,41.27,Heart Disease,161,94,265,167,No,,5404,3,10.0,No,No,Regular,1602,186,204,97,Indian,Sweet
+78,Male,177,104,33.2,Diabetes,125,72,199,149,No,,6344,4,9.3,No,No,Regular,2844,108,270,108,Indian,Sweet
+48,Other,192,69,18.72,Heart Disease,170,94,275,119,No,Lactose Intolerance,10429,5,4.5,No,Yes,Keto,3194,81,347,130,Indian,Sweet
+64,Other,190,105,29.09,Diabetes,108,97,160,221,No,,13551,4,7.4,No,No,Regular,2125,94,165,32,Asian,Sweet
+73,Male,155,101,42.04,No Disease,169,85,270,186,No,,2249,2,4.8,No,No,Regular,2824,75,378,42,Asian,Spicy
+74,Male,194,64,17.0,No Disease,126,73,199,75,No,,14385,2,9.9,No,No,Vegetarian,1555,116,148,147,Indian,Salty
+52,Other,174,59,19.49,Diabetes,171,96,201,215,No,,3061,5,4.6,No,Yes,Keto,2455,196,109,73,Mediterranean,Sweet
+68,Other,186,119,34.4,No Disease,98,75,279,103,No,,14969,6,5.7,No,No,Keto,1465,154,397,45,Western,Spicy
+67,Other,197,77,19.84,No Disease,147,75,287,101,Yes,,5122,1,8.5,No,Yes,Vegan,3205,114,345,26,Indian,Sweet
+33,Male,193,53,14.23,Diabetes,152,109,195,201,No,,10849,5,4.2,No,Yes,Vegan,2676,51,289,93,Mediterranean,
+51,Female,175,98,32.0,Diabetes,175,81,202,85,Yes,,12448,4,8.1,No,No,Vegetarian,3339,179,214,126,Asian,Spicy
+46,Female,174,77,25.43,No Disease,171,109,248,107,No,,8842,3,6.9,Yes,No,Regular,1569,194,329,112,Western,
+42,Other,180,78,24.07,Heart Disease,139,112,295,124,Yes,,8241,5,9.3,Yes,Yes,Keto,1833,94,189,133,Western,
+58,Female,186,109,31.51,Heart Disease,92,66,166,184,No,,10536,5,6.4,No,No,Keto,2351,116,240,133,Western,Spicy
+62,Female,158,62,24.84,No Disease,160,88,262,133,No,,13288,0,9.3,No,No,Regular,1908,129,321,52,Indian,Salty

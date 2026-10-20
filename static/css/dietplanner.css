@@ -1,0 +1,269 @@
+/* ==========================================
+   AI DIET EXPERT SYSTEM
+   DIET PLANNER
+========================================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+
+:root{
+
+    --primary:#2D6A4F;
+
+    --secondary:#40916C;
+
+    --accent:#52B788;
+
+    --light:#D8F3DC;
+
+    --background:#F8FFFC;
+
+    --white:#FFFFFF;
+
+    --text:#1B4332;
+
+    --gray:#6C757D;
+
+    --shadow:0 15px 35px rgba(0,0,0,.08);
+
+    --radius:18px;
+
+}
+
+*{
+
+    margin:0;
+
+    padding:0;
+
+    box-sizing:border-box;
+
+}
+
+body{
+
+    font-family:'Poppins',sans-serif;
+
+    background:linear-gradient(135deg,#F8FFFC,#EAFBF1);
+
+    color:var(--text);
+
+    padding:60px 20px;
+
+}
+
+/* ==========================================
+   TITLE
+========================================== */
+
+.form-title{
+
+    text-align:center;
+
+    margin-bottom:50px;
+
+}
+
+.form-title h1{
+
+    font-size:42px;
+
+    color:var(--primary);
+
+    margin-bottom:15px;
+
+    font-weight:700;
+
+}
+
+.form-title p{
+
+    color:var(--gray);
+
+    font-size:17px;
+
+    max-width:700px;
+
+    margin:auto;
+
+    line-height:1.8;
+
+}
+/* ==========================================
+   SECTION CARD
+========================================== */
+
+.section{
+
+    background:white;
+
+    border-radius:22px;
+
+    padding:35px;
+
+    margin-bottom:35px;
+
+    box-shadow:0 10px 25px rgba(0,0,0,.06);
+
+    transition:.35s;
+
+}
+
+.section:hover{
+
+    transform:translateY(-6px);
+
+    box-shadow:0 18px 40px rgba(0,0,0,.08);
+
+}
+
+.section h2{
+
+    color:var(--primary);
+
+    font-size:28px;
+
+    margin-bottom:18px;
+
+}
+
+.section-note{
+
+    color:var(--gray);
+
+    margin-bottom:25px;
+
+    line-height:1.7;
+
+}
+/* ==========================================
+   GRID
+========================================== */
+
+.form-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(2,1fr);
+
+    gap:28px;
+
+}
+/* ==========================================
+   LABELS
+========================================== */
+
+label{
+
+    display:block;
+
+    margin-bottom:8px;
+
+    font-weight:600;
+
+    color:var(--text);
+
+}
+/* ==========================================
+   INPUTS
+========================================== */
+
+input,
+
+select{
+
+    width:100%;
+
+    padding:16px;
+
+    border:2px solid #E4F0E7;
+
+    border-radius:15px;
+
+    font-size:15px;
+
+    transition:.3s;
+
+    outline:none;
+
+    background:white;
+
+}
+
+input:focus,
+
+select:focus{
+
+    border-color:var(--accent);
+
+    box-shadow:0 0 0 5px rgba(82,183,136,.15);
+
+}
+/* ==========================================
+   BUTTON
+========================================== */
+
+button{
+
+    width:100%;
+
+    margin-top:25px;
+
+    border:none;
+
+    padding:20px;
+
+    border-radius:50px;
+
+    background:linear-gradient(
+
+        135deg,
+
+        var(--primary),
+
+        var(--accent)
+
+    );
+
+    color:white;
+
+    font-size:18px;
+
+    font-weight:600;
+
+    cursor:pointer;
+
+    transition:.35s;
+
+}
+button:hover{
+
+    transform:translateY(-5px);
+
+    box-shadow:0 20px 35px rgba(0,0,0,.15);
+
+}
+/* ==========================================
+   RESPONSIVE
+========================================== */
+
+@media(max-width:900px){
+
+.form-grid{
+
+grid-template-columns:1fr;
+
+}
+
+.form-container{
+
+padding:25px;
+
+}
+
+.form-title h1{
+
+font-size:34px;
+
+}
+
+}

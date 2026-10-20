@@ -1,0 +1,53 @@
+<nav class="navbar">
+  <div class="nav-container">
+    <h2 class="logo">AI Diet Expert System</h2>
+  </div>
+</nav>
+
+<style>
+/* Navbar background gradient */
+.navbar {
+  background: linear-gradient(90deg, #1b4332, #2d6a4f, #40916c);
+  padding: 15px 0;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+/* Navbar layout */
+.nav-container {
+  width: 90%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Animated gradient title */
+.logo {
+  font-size: 28px;
+  font-weight: bold;
+  background: linear-gradient(270deg, #b7e4c7, #95d5b2, #d8f3dc, #b7e4c7);
+  background-size: 400% 400%;
+  animation: glowText 6s ease infinite;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* Animation */
+@keyframes glowText {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+/* Optional responsive adjustment */
+@media (max-width: 600px) {
+  .logo {
+    font-size: 20px;
+    text-align: center;
+  }
+}
+</style>

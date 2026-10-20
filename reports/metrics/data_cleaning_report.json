@@ -1,0 +1,14 @@
+{
+    "Original Rows": 5000,
+    "Original Columns": 30,
+    "Cleaned Rows": 5000,
+    "Cleaned Columns": 29,
+    "Removed Columns": [
+        "Patient_ID"
+    ],
+    "Filled Missing Values": {
+        "Chronic_Disease": "No Disease",
+        "Allergies": "None",
+        "Food_Aversions": "None"
+    }
+}
